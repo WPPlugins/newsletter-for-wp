@@ -1,0 +1,2101 @@
+# Copyright (C) 2015 Danny van Kooten
+# This file is distributed under the GPL v3.
+# Translators:
+# Freakspot, 2014
+# S L <gitter.s@gmx.de>, 2015
+# Stefan Oderbolz <oderbolz@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: NewsLetter for WordPress\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/newsletter-for-wp\n"
+"POT-Creation-Date: 2015-05-26 14:41:46+00:00\n"
+"PO-Revision-Date: 2015-06-20 14:02+0000\n"
+"Last-Translator: Stefan Oderbolz <oderbolz@gmail.com>\n"
+"Language-Team: German (Switzerland) (http://www.transifex.com/ibericode/newsletter-for-wordpress/language/de_CH/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_CH\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n 0.4.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2; _nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__; esc_html__;esc_attr_e; esc_html_e;esc_attr_x:1,2c; esc_html_x:1,2c;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:141
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:157
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:160
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:16
+msgid "Upgrade to NewsLetter for WordPress Pro"
+msgstr "Wechsle zu NewsLetter für WordPress Pro"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:179
+msgid "NewsLetter API Settings"
+msgstr "NewsLetter API Einstellungen"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:180
+msgid "NewsLetter"
+msgstr "NewsLetter"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:185
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:11
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:506
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:11
+msgid "Checkbox Settings"
+msgstr "Checkbox Einstellungen"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:186
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:507
+msgid "Checkboxes"
+msgstr "Checkboxen"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:191
+#: newsletter-for-wordpress/includes/views/form-settings.php:9
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:364
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:512
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:91
+msgid "Form Settings"
+msgstr "Formulareinstellungen"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:192
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:513
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-form-settings.php:10
+msgid "Forms"
+msgstr "Formulare"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:196
+#: newsletter-for-wordpress/includes/admin/class-admin.php:197
+msgid "Upgrade to Pro"
+msgstr "Auf Pro upgraden"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:283
+msgid "This option is only available in NewsLetter for WordPress Pro."
+msgstr "Diese Option ist nur für NewsLetter für Wordpress Pro verfügbar."
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:285
+#: newsletter-for-wordpress/includes/views/form-settings.php:29
+#: newsletter-for-wordpress/includes/views/form-settings.php:36
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:21
+msgid "(PRO ONLY)"
+msgstr "(NUR PRO)"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:286
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:610
+msgid "Button text"
+msgstr "Button text"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:287
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:39
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:611
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:59
+msgid "Initial value"
+msgstr "Anfangsangaben"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:288
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:29
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:34
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:39
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:612
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:49
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:54
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:59
+msgid "(optional)"
+msgstr "(optional)"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:289
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:613
+msgid "Label for"
+msgstr "Beschreibung für"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:290
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:614
+msgid "(or leave empty)"
+msgstr "(oder leer lassen)"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:291
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:615
+msgid "Subscribe"
+msgstr "abonnieren"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:292
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:616
+msgid "Unsubscribe"
+msgstr "Abmelden"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:316
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:654
+msgid "Comment form"
+msgstr "Kommentarformular"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:317
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:655
+msgid "Registration form"
+msgstr "Registrierungsformular"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:321
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:659
+msgid "MultiSite forms"
+msgstr "MultiSite-Formular"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:325
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:663
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:337
+msgid "BuddyPress registration"
+msgstr "BuddyPress-Formular"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:333
+#: newsletter-for-wordpress/includes/admin/class-admin.php:337
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:671
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:675
+msgid "%s checkout"
+msgstr "%s Checkout"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:365
+msgid ""
+"The plugin can only fetch a maximum of 100 lists from NewsLetter, only your "
+"first 100 lists are shown."
+msgstr "Das Plugin kann nur max. 100 Listen von NewsLetter abrufen, es werden also nur deine ersten 100 Listen angezeigt."
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:370
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:719
+msgid "Renewed NewsLetter cache."
+msgstr "NewsLetter Cache erneuern."
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:372
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:721
+msgid "Failed to renew NewsLetter cache - please try again later."
+msgstr "Konnte den NewsLetter Cache nicht erneuern - Bitte später noch einmal probieren."
+
+#: newsletter-for-wordpress/includes/class-widget.php:21
+msgid "NewsLetter Sign-Up Form"
+msgstr "NewsLetter Registrierungsformular"
+
+#: newsletter-for-wordpress/includes/class-widget.php:23
+msgid "Displays your NewsLetter for WordPress sign-up form"
+msgstr "Zeigt dein NewsLetter für WordPress Registrierungsformular an"
+
+#: newsletter-for-wordpress/includes/class-widget.php:67
+#: newsletter-for-wordpress-pro/includes/class-widget.php:71
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: newsletter-for-wordpress/includes/class-widget.php:70
+#: newsletter-for-wordpress-pro/includes/class-widget.php:82
+msgid "Title:"
+msgstr "Titel:"
+
+#: newsletter-for-wordpress/includes/class-widget.php:74
+msgid ""
+"You can edit your sign-up form in the <a href=\"%s\">NewsLetter for WordPress"
+" form settings</a>."
+msgstr "Du kannst dein Registrierungsformular in den  <a href=\"%s\">NewsLetter für WordPress Formulareinstellungen</a> editieren."
+
+#: newsletter-for-wordpress/includes/functions/general.php:15
+#: newsletter-for-wordpress-pro/includes/class-newsletter.php:135
+#: newsletter-for-wordpress-pro/includes/config/default-form.php:3
+msgid "Email address"
+msgstr "E-Mail Adresse"
+
+#: newsletter-for-wordpress/includes/functions/general.php:16
+#: newsletter-for-wordpress-pro/includes/config/default-form.php:4
+#: newsletter-for-wordpress-pro/includes/config/inline-form.php:2
+msgid "Your email address"
+msgstr "Deine E-Mail Adresse"
+
+#: newsletter-for-wordpress/includes/functions/general.php:17
+#: newsletter-for-wordpress-pro/includes/config/default-form.php:5
+#: newsletter-for-wordpress-pro/includes/config/inline-form.php:3
+msgid "Sign up"
+msgstr "Registrieren"
+
+#: newsletter-for-wordpress/includes/functions/general.php:24
+#: newsletter-for-wordpress-pro/includes/config/default-options.php:9
+msgid "Sign me up for the newsletter!"
+msgstr "Trage mich in den Newsletter ein!"
+
+#: newsletter-for-wordpress/includes/functions/general.php:44
+msgid ""
+"Thank you, your sign-up request was successful! Please check your e-mail "
+"inbox."
+msgstr "Dankeschön, Deine Registrierungsanfrage war erfolgreich! Bitte überprüfe Deinen E-Mail-Eingang."
+
+#: newsletter-for-wordpress/includes/functions/general.php:45
+#: newsletter-for-wordpress-pro/includes/config/default-options.php:35
+msgid "Oops. Something went wrong. Please try again later."
+msgstr "Oops. Irgendwas ist schief gelaufen. Bitte versuche es später noch mal."
+
+#: newsletter-for-wordpress/includes/functions/general.php:46
+#: newsletter-for-wordpress-pro/includes/config/default-options.php:36
+msgid "Please provide a valid email address."
+msgstr "Bitte eine gültige E-Mail Adresse angeben."
+
+#: newsletter-for-wordpress/includes/functions/general.php:47
+#: newsletter-for-wordpress-pro/includes/config/default-options.php:37
+msgid "Given email address is already subscribed, thank you!"
+msgstr "Die angegebene E-Mail Adresse befindet sich bereits im Verteiler, danke!"
+
+#: newsletter-for-wordpress/includes/functions/general.php:48
+#: newsletter-for-wordpress-pro/includes/config/default-options.php:38
+msgid "Please complete the CAPTCHA."
+msgstr "Bitte das CAPTCHA vervollständigen."
+
+#: newsletter-for-wordpress/includes/functions/general.php:49
+#: newsletter-for-wordpress-pro/includes/config/default-options.php:39
+msgid "Please fill in the required fields."
+msgstr "Bitte fülle die erforderlichen Felder aus."
+
+#: newsletter-for-wordpress/includes/functions/general.php:50
+#: newsletter-for-wordpress-pro/includes/config/default-options.php:40
+msgid "You were successfully unsubscribed."
+msgstr "Du wurdest erfolgreich abgemeldet."
+
+#: newsletter-for-wordpress/includes/functions/general.php:51
+#: newsletter-for-wordpress-pro/includes/config/default-options.php:41
+msgid "Given email address is not subscribed."
+msgstr "Die angegebene E-Mail Adresse ist nicht abonniert."
+
+#: newsletter-for-wordpress/includes/integrations/class-cf7.php:55
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:52
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:91
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:96
+#: newsletter-for-wordpress/includes/views/form-settings.php:106
+#: newsletter-for-wordpress/includes/views/form-settings.php:121
+#: newsletter-for-wordpress/includes/views/form-settings.php:134
+#: newsletter-for-wordpress/includes/views/form-settings.php:145
+#: newsletter-for-wordpress/includes/views/form-settings.php:164
+#: newsletter-for-wordpress/includes/views/form-settings.php:178
+#: newsletter-for-wordpress-pro/includes/integrations/class-cf7.php:57
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:17
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:37
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:56
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:75
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:98
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:116
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:139
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:52
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:60
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:71
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:113
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:118
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:59
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:72
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:82
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:97
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:115
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:123
+msgid "Yes"
+msgstr "Ja"
+
+#: newsletter-for-wordpress/includes/integrations/class-cf7.php:55
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:56
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:91
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:96
+#: newsletter-for-wordpress/includes/views/form-settings.php:27
+#: newsletter-for-wordpress/includes/views/form-settings.php:110
+#: newsletter-for-wordpress/includes/views/form-settings.php:125
+#: newsletter-for-wordpress/includes/views/form-settings.php:136
+#: newsletter-for-wordpress/includes/views/form-settings.php:149
+#: newsletter-for-wordpress/includes/views/form-settings.php:168
+#: newsletter-for-wordpress/includes/views/form-settings.php:182
+#: newsletter-for-wordpress-pro/includes/integrations/class-cf7.php:57
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:21
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:41
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:60
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:79
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:102
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:120
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:140
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:52
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:62
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:75
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:113
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:118
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:22
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:63
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:73
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:86
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:101
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:116
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:124
+msgid "No"
+msgstr "Nein"
+
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:235
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:238
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:300
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:309
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:235
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:238
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:300
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:309
+msgid "NewsLetter for WordPress - Error"
+msgstr "NewsLetter für WordPress - Fehler"
+
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:236
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:236
+msgid ""
+"Please select a list to subscribe to in the <a href=\"%s\">checkbox "
+"settings</a>."
+msgstr "Bitte wähle aus, welches Registrierungsformular Du hier in den  <a href=\"%s\">Widget Einstellungen</a> anzeigen möchtest."
+
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:237
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:308
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:237
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:308
+msgid "This message is only visible to administrators for debugging purposes."
+msgstr "Diese Nachricht ist nur sichtbar für Administratoren für Debugging-Zwecke."
+
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:301
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:301
+msgid ""
+"The NewsLetter server returned the following error message as a response to "
+"our sign-up request:"
+msgstr "Der NewsLetter Server hat die folgende Fehlernachricht als Antwort auf deine Registrierungsanfrage zurückgegeben."
+
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:303
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:303
+msgid "This is the data that was sent to NewsLetter:"
+msgstr "Dies sind die Daten, die zu NewsLetter gesendet wurden:"
+
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:304
+#: newsletter-for-wordpress-pro/includes/class-subscribe-request.php:216
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:304
+msgid "Email address:"
+msgstr "E-Mail-Adresse:"
+
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:306
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:306
+msgid "Merge variables:"
+msgstr "Variablen zusammenführen:"
+
+#. Plugin Name of the plugin/theme
+msgid "NewsLetter for WordPress"
+msgstr "NewsLetter für WordPress"
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:12
+#: newsletter-for-wordpress/includes/views/form-settings.php:99
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:10
+msgid "NewsLetter Settings"
+msgstr "NewsLetter Einstellungen"
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:22
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:19
+msgid "API Settings"
+msgstr "API Einstellungen"
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:24
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:21
+msgid "CONNECTED"
+msgstr "VERBUNDEN"
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:26
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:23
+msgid "NOT CONNECTED"
+msgstr "NICHT VERBUNDEN"
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:32
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:29
+msgid "API Key"
+msgstr "API Schlüssel"
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:34
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:31
+msgid "Your NewsLetter API key"
+msgstr "Dein NewsLetter API Schlüssel"
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:35
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:32
+msgid "Get your API key here."
+msgstr "Den API Schlüssel bekommst du hier."
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:47
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:48
+msgid "NewsLetter Data"
+msgstr "NewsLetter Daten"
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:48
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:49
+msgid ""
+"The table below shows your NewsLetter lists data. If you applied changes to "
+"your NewsLetter lists, please use the following button to renew your cached "
+"data."
+msgstr "Die Tabelle zeigt die Daten zu deinen NewsLetter Listen. Wenn du bei den NewsLetter Listen Änderungen gemacht hast, nutze bitte den folgenden Button um die Daten neu zu laden."
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:54
+#: newsletter-for-wordpress/includes/views/api-settings.php:125
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:55
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:126
+msgid "Renew NewsLetter lists"
+msgstr "NewsLetter Listen neu laden"
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:112
+msgid "No lists were found in your NewsLetter account"
+msgstr "In Deinem NewsLetter Account wurden keine Mailinglisten gefunden"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:16
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:14
+msgid ""
+"To use sign-up checkboxes, select at least one list and one form to add the "
+"checkbox to."
+msgstr "Um die Registrierungs-Checkboxen zu nutzen, wähle mindestens eine Liste und ein Formular, um die Checkbox auch hinzuzufügen."
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:21
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:21
+msgid "NewsLetter settings for checkboxes"
+msgstr "NewsLetter Einstellungen für Checkboxen"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:25
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:26
+msgid ""
+"If you want to use sign-up checkboxes, select at least one NewsLetter list to"
+" subscribe people to."
+msgstr "Wenn du die Registrierungs-Checkboxen nutzen möchtest, wähle mindestens eine NewsLetter Liste in welche die Adressen gespeichert werden."
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:31
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:34
+msgid "NewsLetter Lists"
+msgstr "NewsLetter Listen"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:35
+#: newsletter-for-wordpress/includes/views/form-settings.php:48
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:17
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:38
+msgid "No lists found, <a href=\"%s\">are you connected to NewsLetter</a>?"
+msgstr "Keine Listen gefunden, <a href=\"%s\">hast du NewsLetter bereits angebunden</a>?"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:42
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:45
+msgid ""
+"Select the list(s) to which people who check the checkbox should be "
+"subscribed."
+msgstr "Wähle die Listen zu welchen, die Abonnenten die die Checkbox ausgewählt haben, eingetragen werden sollen."
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:48
+#: newsletter-for-wordpress/includes/views/form-settings.php:102
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:13
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:51
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:55
+msgid "Double opt-in?"
+msgstr "Double opt-in?"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:59
+#: newsletter-for-wordpress/includes/views/form-settings.php:113
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:28
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:53
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:66
+msgid ""
+"Select \"yes\" if you want people to confirm their email address before "
+"being subscribed (recommended)"
+msgstr "Wähle \"ja\" wenn du möchtest, dass die E-Mail Adresse bestätigt werden muss. (empfohlen)"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:63
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:82
+msgid "Checkbox settings"
+msgstr "Checkbox Einstellungen"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:67
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:85
+msgid "Add the checkbox to these forms"
+msgstr "Füge diese Checkbox zu diesen Formularen"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:79
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:92
+msgid "Selecting a form will automatically add the sign-up checkbox to it."
+msgstr "Wenn ein Formular ausgewählt wird, wird automatisch die Registrierungs-Checkbox hinzugefügt."
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:83
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:105
+msgid "Checkbox label text"
+msgstr "Checkbox Beschriftung Text"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:86
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:108
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:148
+msgid "HTML tags like %s are allowed in the label text."
+msgstr "HTML Tags wie %s sind in den Beschriftungen erlaubt."
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:90
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:112
+msgid "Pre-check the checkbox?"
+msgstr "Die Checkbox vorauswählen?"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:95
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:117
+msgid "Load some default CSS?"
+msgstr "Allgemeines CSS laden?"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:97
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:119
+msgid "Select \"yes\" if the checkbox appears in a weird place."
+msgstr "Wähle \"ja\", falls die Checkbox an einem ungewünschten Platz angezeigt wird."
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:100
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:122
+msgid "WooCommerce checkbox position"
+msgstr "WooCommerce Checkbox Position"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:103
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:125
+msgid "After the billing details"
+msgstr "Nach den Rechnungsdetails"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:104
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:126
+msgid "After the additional information"
+msgstr "Nach den zusätzlichen Informationen"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:107
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:129
+msgid ""
+"Choose the position for the checkbox in your WooCommerce checkout form."
+msgstr "Wähle die Position für die Checkbox in Deinem WooCommerce Checkout Formular."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:15
+msgid ""
+"To use the NewsLetter sign-up form, configure the form below and then either "
+"paste %s in the content of a post or page or use the  widget."
+msgstr "Um das NewsLetter Registrierungsformular nutzen zu können, individualisiere das untenstehende Formular und dann kopiere %s in den Inhalt einer Seite oder eines Posts oder benutze ein Widget."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:20
+msgid "Required form settings"
+msgstr "Erforderliche Formulareinstellungen"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:24
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:19
+msgid "Load form styles (CSS)?"
+msgstr "Lade Formular Stile (CSS)?"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:28
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:23
+msgid "Yes, load basic form styles"
+msgstr "Ja, lade Standard Formular Stile"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:29
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:24
+msgid "Yes, load my custom form styles"
+msgstr "Ja, lade meine eigenen Formular Stile"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:30
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:25
+msgid "Yes, load default form theme"
+msgstr "Ja, lade Standard Formular Theme"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:31
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:26
+msgid "Light Theme"
+msgstr "Helles Theme"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:32
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:27
+msgid "Red Theme"
+msgstr "Rotes Theme"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:33
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:28
+msgid "Green Theme"
+msgstr "Grünes Theme"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:34
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:29
+msgid "Blue Theme"
+msgstr "Blaues Theme"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:35
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:30
+msgid "Dark Theme"
+msgstr "Dunkles Theme"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:36
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:31
+msgid "Custom Color Theme"
+msgstr "Benutzerdefinierte Farben Theme"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:41
+msgid ""
+"If you want to load some default CSS styles, select \"basic formatting "
+"styles\" or choose one of the color themes"
+msgstr "Wenn du ein %sbenutzerdefiniertes Stylesheet erstellt%s hast und dieses laden möchtest,  wähle \"eigenen Formularstil\". Andernfalls wähle eines der Standard Formularstile oder eines der Standard Themes."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:45
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:14
+msgid "Lists this form subscribes to"
+msgstr "Listen dieses Formulars abonnieren "
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:63
+msgid ""
+"Select the list(s) to which people who submit this form should be "
+"subscribed."
+msgstr "Wähle die Liste(n), welche abonniert wird, wenn das Formular abgeschickt wird."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:69
+msgid "Form mark-up"
+msgstr "Formular Markup"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:79
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:91
+msgid ""
+"Use the shortcode %s to display this form inside a post, page or text "
+"widget."
+msgstr "Benutze diesen Shortcode %s um dieses Formular innerhalb eines Posts, Seite oder Text Widgets zu nutzen."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:92
+#: newsletter-for-wordpress-pro/includes/views/parts/missing-fields-notice.php:4
+msgid "Your form is missing the following (required) form fields:"
+msgstr "In deinem Formular fehlen die folgenden (erforderlichen) Felder:"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:117
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:71
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:57
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:70
+msgid "Send Welcome Email?"
+msgstr "Willkommens E-Mail senden?"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:128
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:86
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:64
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:75
+msgid ""
+"Select \"yes\" if you want to send your lists Welcome Email if a subscribe "
+"succeeds (only when double opt-in is disabled)."
+msgstr "Wähle \"ja\" wenn du die Listen Willkommens E-Mail versenden möchtest, wenn ein Abonnement erfolgreich war (nur wenn Bouble Opt-in deaktiviert ist)."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:131
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:33
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:67
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:78
+msgid "Update existing subscribers?"
+msgstr "Aktualisiere vorhandene Abonnenten?"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:138
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:47
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:89
+msgid ""
+"Select \"yes\" if you want to update existing subscribers (instead of "
+"showing the \"already subscribed\" message)."
+msgstr "Wähle \"ja\" wenn du bestehende Abonnenten aktualisieren möchtest (anstatt die \"bereits abonnierten\" Nachricht anzuzeigen)."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:141
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:52
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:93
+msgid "Replace interest groups?"
+msgstr "Interessengruppen ersetzen?"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:152
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:66
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:104
+msgid ""
+"Select \"yes\" if you want to replace the interest groups with the groups "
+"provided instead of adding the provided groups to the member's interest "
+"groups (only when updating a subscriber)."
+msgstr "Wähle \"ja\" wenn du die Interessengruppen mit den angegebenen Gruppen ersetzten möchtest, anstatt die angegebenen Gruppen zu den Mitglieder Interessengruppen hinzuzufügen. (Nur beim Ändern eines Abonennten)"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:156
+msgid "Form Settings & Messages"
+msgstr "Formular Einstellungen & Nachrichten"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:160
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:94
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:113
+msgid "Enable AJAX form submission?"
+msgstr "AJAX Formular aktivieren?"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:171
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:108
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:118
+msgid "Select \"yes\" if you want to use AJAX (JavaScript) to submit forms."
+msgstr "Wähle \"ja\" wenn du das AJAX (JavaScript) Formular verwenden möchtest."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:174
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:112
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:121
+msgid "Hide form after a successful sign-up?"
+msgstr "Verberge das Formular nach der Registrierung?"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:185
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:126
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:126
+msgid "Select \"yes\" to hide the form fields after a successful sign-up."
+msgstr "Wähle \"ja\" wenn du die Formular Felder verstecken möchtest, nach einer erfolgreichen Registrierung."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:188
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:130
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:129
+msgid "Redirect to URL after successful sign-ups"
+msgstr "Weiterleitung zu URL nach einer erfolgreichen Registrierung."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:190
+msgid "Example: %s"
+msgstr "Beispiel: %s"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:191
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:133
+msgid ""
+"Leave empty or enter <code>0</code> for no redirect. Otherwise, use complete"
+" (absolute) URLs, including <code>http://</code>."
+msgstr "Leer lassen oder <code>0</code> eingeben für keine Weiterleitung. Ansonsten verwende (absolute) URLs, inkl. <code>http://</code>."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:195
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:140
+msgid "Successfully subscribed"
+msgstr "Erfolgreich abonniert"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:198
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:156
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:143
+msgid ""
+"The text that shows when an email address is successfully subscribed to the "
+"selected list(s)."
+msgstr "Der Text, der angezeigt wird, wenn eine E-Mail Adresse erfolgreich zur/zu den ausgewählten Liste(n) abonniert wurde."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:202
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:160
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:147
+msgid "Invalid email address"
+msgstr "Ungültige E-Mail-Adresse"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:205
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:163
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:150
+msgid "The text that shows when an invalid email address is given."
+msgstr "Der Text, der angezeigt wird, wenn eine ungültige E-Mail Adresse angegeben wurde."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:209
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:167
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:154
+msgid "Required field missing"
+msgstr "Erforderliches Feld fehlt"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:212
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:170
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:157
+msgid ""
+"The text that shows when a required field for the selected list(s) is "
+"missing."
+msgstr "Der Text, der angezeigt wird, wenn ein erforderliches Feld für die ausgewählte(n) Liste(n) fehlt."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:216
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:174
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:161
+msgid "Already subscribed"
+msgstr "Bereits abonniert"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:219
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:177
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:164
+msgid ""
+"The text that shows when the given email is already subscribed to the "
+"selected list(s)."
+msgstr "Der Text, der angezeigt wird, wenn die angegebene E-Mail Adresse bereits für die ausgewählte(n) Liste(n) abonniert ist."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:224
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:182
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:169
+msgid "Invalid CAPTCHA"
+msgstr "Ungültiges CAPTCHA"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:229
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:174
+msgid "General error"
+msgstr "Allgemeiner Fehler"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:232
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:193
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:177
+msgid "The text that shows when a general error occured."
+msgstr "Der Text, der angezeigt wird, wenn ein allgemeiner Fehler aufgetreten ist."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:236
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:197
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:181
+msgid "Unsubscribed"
+msgstr "Abgemeldet"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:239
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:200
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:184
+msgid ""
+"When using the unsubscribe method, this is the text that shows when the "
+"given email address is successfully unsubscribed from the selected list(s)."
+msgstr "Wenn die \"Abmelden\" Funktion verwendet wird, ist dies der Text der angezeigt wird, wenn die angegebene E-Mail Adresse erfolgreich von der/den ausgewählten Liste(n) abgemeldet wurde."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:243
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:204
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:188
+msgid "Not subscribed"
+msgstr "Nicht abonniert"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:246
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:207
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:191
+msgid ""
+"When using the unsubscribe method, this is the text that shows when the "
+"given email address is not on the selected list(s)."
+msgstr "Wenn die \"Abmelden\" Funktion verwendet wird, ist dies der Text der angezeigt wird, wenn die angegebene E-Mail Adresse die ausgewählte Liste nicht abonniert hat."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:252
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:213
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:197
+msgid "HTML tags like %s are allowed in the message fields."
+msgstr "HTML Tags wie %s sind in den Nachrichten Feldern erlaubt."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:266
+msgid "Form Styling"
+msgstr "Formular Styling"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:267
+msgid "Alter the visual appearance of the form by applying CSS rules to %s."
+msgstr "Ändere das Aussehen des Formulars indem CSS-Regeln auf %s angewendet werden."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:268
+msgid ""
+"You can add the CSS rules to your theme stylesheet using the <a "
+"href=\"%s\">Theme Editor</a> or by using a plugin like %s"
+msgstr ""
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:269
+msgid ""
+"The <a href=\"%s\" target=\"_blank\">plugin FAQ</a> lists the various CSS "
+"selectors you can use to target the different form elements."
+msgstr "Die <a href=\"%s\" target=\"_blank\">Plugin FAQ</a> zählt die verschiedenen CSS-Selektoren auf, mit denen die die verschiedenen Formularelemente ansteuern kannst."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:270
+msgid ""
+"If you need an easier way to style your forms, consider <a "
+"href=\"%s\">upgrading to NewsLetter for WordPress Pro</a> which comes with an"
+" easy Styles Builder."
+msgstr ""
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:272
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:366
+msgid "Variables"
+msgstr ""
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:274
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:11
+msgid ""
+"The following list of variables can be used to <a href=\"%s\">add some "
+"dynamic content to your form or success and error messages</a>."
+msgstr ""
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:274
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:11
+msgid "This allows you to personalise your form or response messages."
+msgstr ""
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:282
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:16
+msgid "Replaced with the visitor's email (if set in URL or cookie)."
+msgstr "Ersetzt mit der Email-Adresse des Besuchers (falls in der URL oder dem Cookie gesetzt),"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:286
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:20
+msgid "Replaced with the form response (error or success messages)."
+msgstr "Ersetzt mit der Formular-Antwort (Fehler- oder Erfolgsmeldungen)."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:291
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:25
+msgid "Replaced with a captcha field."
+msgstr "Ersetzt durch ein Captcha-Feld."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:296
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:30
+msgid "Replaced with the number of subscribers on the selected list(s)"
+msgstr "Ersetzten mit der Nummer von Abonnenten der gewählten Listen"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:300
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:34
+msgid "Replaced with the current site language, eg: %s"
+msgstr "Ersetzt mit der derzeitig gesetzten Sprache, z.B. %s"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:304
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:38
+msgid "Replaced with the visitor's IP address"
+msgstr "Ersetzten mit der Besucher IP Adresse"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:308
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:42
+msgid "Replaced with the current date (yyyy/mm/dd eg: %s)"
+msgstr "Ersetzten mit dem aktuellen Datum (yyyy/mm/dd eg: %s)"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:312
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:46
+msgid "Replaced with the current time (hh:mm:ss eg: %s)"
+msgstr "Ersetzten mit der aktuellen Uhrzeit (hh:mm:ss eg: %s)"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:316
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:50
+msgid ""
+"Replaced with the logged in user's email (or nothing, if there is no logged "
+"in user)"
+msgstr "Ersetzten mit der E-Mail des eingeloggten Benutzers (oder nicht, wenn der User nicht eingeloggt ist)"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:320
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:54
+msgid "First name of the current user"
+msgstr "Den Vornamen des aktuellen Benutzers anzeigen"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:324
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:58
+msgid "Last name of the current user"
+msgstr "Den Nachnamen des aktuellen Benutzers anzeigen"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:328
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:62
+msgid "Current user ID"
+msgstr "Aktuelle Benutzer ID"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:332
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:66
+msgid "Current URL"
+msgstr "Aktuelle URL"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:336
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:70
+msgid "The value of the <strong>FNAME</strong> field, if set."
+msgstr ""
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:10
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:31
+msgid "Add a new field"
+msgstr "Neues Feld anlegen"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:12
+msgid "Use the tool below to generate the HTML for your form fields."
+msgstr "Verwende das untenstehende Werkzeug um das HTML für deine Formularfelder zu generieren."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:15
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:35
+msgid "Select NewsLetter field.."
+msgstr "Wähle NewsLetter Feld.."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:19
+msgid "Submit Button"
+msgstr "Absenden Button"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:20
+msgid "Subscribe / unsubscribe choice"
+msgstr "Abonnieren / Abmelden Auswahl"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:21
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:40
+msgid "List choice"
+msgstr "Listen-Auswahl"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:29
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:49
+msgid "Label"
+msgstr "Beschreibung"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:34
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:54
+msgid "Placeholder"
+msgstr "Platzhalter"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:44
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:64
+msgid "Labels"
+msgstr "Beschriftungen"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:44
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:64
+msgid "(leave empty to hide)"
+msgstr "(leer lassen um zu verbergen)"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:49
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:69
+msgid "Wrap in paragraph %s tags?"
+msgstr "Von Paragraph %s Tags umgeben lassen?"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:54
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:73
+msgid "Required field?"
+msgstr "Verpflichtendes Feld?"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:58
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:77
+msgid "Add to form"
+msgstr "Zum Formular hinzufügen"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:62
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:81
+msgid "Generated HTML"
+msgstr "Generiertes HTML"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:69
+msgid "Select at least one list first."
+msgstr "Als erstes eine Liste auswählen."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-footer.php:11
+msgid ""
+"NewsLetter for WordPress is in need of translations. Is the plugin not "
+"translated in your language or do you spot errors with the current "
+"translations? Helping out is easy! Head over to <a href=\"%s\">the "
+"translation project and click \"help translate\"</a>."
+msgstr "NewsLetter für WordPress braucht mehr Übersetzungen. Ist das Plugin in deiner Sprache nicht verfügbar oder hast du einen Fehler in der jetzigen Übersetzung entdeckt? Helfen ist ganz einfach! Gehe zum <a href=\"%s\">Übersetzungsprojekt und klicke auf \"Übersetzen\"</a>."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-footer.php:14
+msgid ""
+"Enjoying this plugin? <a href=\"%s\">Upgrade to NewsLetter for WordPress "
+"Pro</a> for an even better plugin, you will love it."
+msgstr ""
+
+#: newsletter-for-wordpress/includes/views/parts/admin-footer.php:20
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-footer.php:13
+msgid ""
+"This plugin is not developed by or affiliated with NewsLetter in any way."
+msgstr "Dieses Plugin ist weder von NewsLetter entwickelt noch sonst irgendwie daran angegliedert."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:9
+msgid "Looking for help?"
+msgstr ""
+
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:10
+msgid ""
+"Make sure to look at the <a href=\"%s\">NewsLetter for WordPress "
+"documentation</a>, the plugin <a href=\"%s\">FAQ</a> or use the <a "
+"href=\"%s\">support forums</a> on WordPress.org."
+msgstr ""
+
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:14
+msgid "Do you enjoy this plugin?"
+msgstr ""
+
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:17
+msgid "Leave a %s plugin review on WordPress.org"
+msgstr "Schreib ein %s Plugin Review auf WordPress.org"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:18
+msgid "I am using NewsLetter for WordPress by @DannyvanKooten - it is great!"
+msgstr "Ich verwende NewsLetter für WordPress by @DannyvanKooten - es ist grossartig!"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:18
+msgid "Tweet about NewsLetter for WordPress"
+msgstr "Twittere über NewsLetter für WordPress"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:19
+msgid ""
+"Review the plugin on your blog and link to <a href=\"%s\">the plugin "
+"page</a>."
+msgstr "Mach einen Review von diesem Plugin auf deinem Blog und linke zur <a href=\"%s\">Plugin-Seite</a>."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:19
+msgid "There is an <a href=\"%s\">affiliate program</a> as well."
+msgstr ""
+
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:20
+msgid "Vote \"works\" on the WordPress.org plugin page"
+msgstr "Stimme für \"works\" auf der WordPress.org Plugin Seite"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:10
+msgid ""
+"This plugin has an even better premium version, you will absolutely love it."
+msgstr ""
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:11
+msgid "Some differences with this free version of the plugin:"
+msgstr ""
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:14
+msgid "Multiple forms"
+msgstr "Mehrere Formulare"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:15
+msgid "Each subscribing to one or multiple NewsLetter lists."
+msgstr ""
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:18
+msgid "AJAX forms"
+msgstr "AJAX Formular"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:19
+msgid "Forms do not require a full page reload."
+msgstr ""
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:22
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-reports.php:14
+msgid "Statistics"
+msgstr "Statistiken"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:23
+msgid "Every form interaction is logged and visualised in insightful charts."
+msgstr ""
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:26
+msgid "Styles Builder"
+msgstr "Styles Builder"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:27
+msgid "Create beautiful form themes with ease."
+msgstr ""
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:31
+msgid "Upgrade Now"
+msgstr "Wechsle jetzt"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:32
+msgid "View Demo"
+msgstr "Demo anschauen"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:176
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:240
+msgid "Save Form"
+msgstr "Formular Speichern"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:244
+msgid "Update Form"
+msgstr "Formular Aktualisieren"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:295
+msgid "Back to general form settings"
+msgstr "Zu den Standard Formular Einstellungen"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:297
+msgid "Form updated."
+msgstr "Formular aktualisiert."
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:298
+msgid "Form saved."
+msgstr "Formular gespeichert."
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:365
+msgid "Optional Settings"
+msgstr "Optionale Einstellungen"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:500
+msgid "NewsLetter & Plugin License Settings"
+msgstr "NewsLetter & Plugin-Lizenz Einstellungen"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:501
+msgid "NewsLetter & License"
+msgstr "NewsLetter & Lizenz"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:517
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:518
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-reports.php:10
+msgid "Reports"
+msgstr "Berichte"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:709
+msgid ""
+"Please make sure the plugin is connected to NewsLetter. <a "
+"href=\"%s\">Provide a valid API key.</a>"
+msgstr "Bitte stelle sicher, dass das Plugin mit NewsLetter verbunden ist. <a href=\"%s\">Gültigen API Schlüssel eingeben.</a>"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:824
+msgid ""
+"You disabled logging using the %s filter. Re-enable it to use the Reports "
+"page."
+msgstr "Du hast das Logging mit dem %s Filter abgeschaltet. Aktiviere es wieder um die Reports-Seite benutzen zu können."
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:840
+msgid ""
+"<strong>Welcome to NewsLetter for WordPress Pro!</strong> We transfered the "
+"settings you set in the Lite version, you can safely <a "
+"href=\"%s\">deactivate it now</a>."
+msgstr "<strong>Willkommen bei NewsLetter für WordPress Pro!</strong> Wir haben die Einstellungen der Lite-Version übernommen, so dass du diese jetzt sicher <a href=\"%s\">deaktivieren kannst</a>."
+
+#: newsletter-for-wordpress-pro/includes/admin/class-statistics.php:130
+msgid "End date can't be before the start date"
+msgstr "Enddatum kann nicht vor dem Startdatum sein"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-styles-builder.php:436
+msgid ""
+"Couldn't create the stylesheet. Manually add the generated CSS to your theme"
+" stylesheet or use a plugin like <em>%s</em>."
+msgstr ""
+
+#: newsletter-for-wordpress-pro/includes/admin/class-styles-builder.php:437
+msgid "%sShow generated CSS%s"
+msgstr "%sZeige das generierte CSS%s"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-styles-builder.php:447
+msgid "The %sCSS Stylesheet%s has been created."
+msgstr "Das %sCSS Stylesheet%s wurde erstellt."
+
+#: newsletter-for-wordpress-pro/includes/class-form-manager.php:263
+msgid "<strong>Error:</strong> Please specify a form ID. Example: %s."
+msgstr "<strong>Fehler:</strong> Bitte eine Formular ID angeben. Beispiel: %s."
+
+#: newsletter-for-wordpress-pro/includes/class-form-manager.php:278
+msgid ""
+"<strong>Error:</strong> Sign-up form not found. Please check if you used the"
+" correct form ID."
+msgstr "<strong>Fehler:</strong> Registrierungsformular nicht gefunden . Bitte überprüfe ob die richtige Formular ID verwendet wurde."
+
+#: newsletter-for-wordpress-pro/includes/class-newsletter.php:140
+msgid "IP Address"
+msgstr "IP Adresse"
+
+#: newsletter-for-wordpress-pro/includes/class-subscribe-request.php:199
+msgid "New NewsLetter Sign-Up"
+msgstr "Neue NewsLetter Registrierung"
+
+#: newsletter-for-wordpress-pro/includes/class-subscribe-request.php:207
+msgid "New Sign-Up"
+msgstr "Neue Registrierung"
+
+#: newsletter-for-wordpress-pro/includes/class-subscribe-request.php:208
+msgid "<strong>%s</strong> signed-up at %s on %s using the form \"%s\"."
+msgstr "<strong>%s</strong> hat sich um %s auf %s registriert und hat dafür das Formular \"%s\" genutzt."
+
+#: newsletter-for-wordpress-pro/includes/class-subscribe-request.php:213
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:77
+msgid "List"
+msgstr "Liste"
+
+#: newsletter-for-wordpress-pro/includes/class-subscribe-request.php:253
+msgid "Other fields"
+msgstr "Andere Felder"
+
+#: newsletter-for-wordpress-pro/includes/class-subscribe-request.php:275
+msgid ""
+"Note that you've enabled double opt-in for the \"%s\" form. The user won't "
+"be added to the selected NewsLetter lists until they confirm their email "
+"address."
+msgstr "Beachte, dass du das sogenannte \"Double opt-in\" für das Formular \"%s\" aktiviert hast. Der Benutzer wird erst der ausgewählten Liste hinzugefügt, wenn er seine Email-Adresse bestätigt hat."
+
+#: newsletter-for-wordpress-pro/includes/class-subscribe-request.php:277
+msgid "This email was auto-sent by the NewsLetter for WordPress plugin."
+msgstr "Diese E-Mail wurde automatisch vom NewsLetter für WordPress Plugin versendet."
+
+#: newsletter-for-wordpress-pro/includes/class-widget.php:20
+msgid "NewsLetter for WP Form"
+msgstr "NewsLetter for WP Formular"
+
+#: newsletter-for-wordpress-pro/includes/class-widget.php:21
+msgid "Displays one of your NewsLetter for WordPress sign-up forms"
+msgstr "Zeige eines deiner NewsLetter für WordPress Registrierungsformulare an"
+
+#: newsletter-for-wordpress-pro/includes/class-widget.php:43
+msgid ""
+"Please select the sign-up form you'd like to show here in the <a "
+"href=\"%s\">widget settings</a>."
+msgstr "Bitte wähle aus, welches Registrierungsformular du hier in den  <a href=\"%s\">Widget Einstellungen</a> anzeigen möchtest."
+
+#: newsletter-for-wordpress-pro/includes/class-widget.php:86
+msgid "Form:"
+msgstr "Formular:"
+
+#: newsletter-for-wordpress-pro/includes/class-widget.php:88
+msgid "Select the form to show"
+msgstr "Wähle ein Formular aus"
+
+#: newsletter-for-wordpress-pro/includes/class-widget.php:96
+msgid "You don't have any sign-up forms. <a href=\"%s\">Create one now.</a>"
+msgstr "Du hast keine Registrierungsformulare. <a href=\"%s\">Erstelle jetzt eines.</a>"
+
+#: newsletter-for-wordpress-pro/includes/config/default-options.php:34
+msgid ""
+"Thank you, your sign-up request was successful! Please check your email "
+"inbox to confirm."
+msgstr "Danke, deine Anfrage war erfolgreich! Bitte prüfe dein E-Mail Konto für die Bestätigung."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:144
+msgid "I know. Don't bug me."
+msgstr "Ich weiss. Lass mich in Ruhe."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:163
+msgid ""
+"<b>Warning!</b> You're blocking external requests which means you won't be "
+"able to get %s updates. Please add %s to %s."
+msgstr "<b>Achtung!</b> Du blockierst externe Anfragen, deshalb bekommst du keine %s Updates. Bitte mache %s zu %s."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:205
+msgid "Your %s license has been activated. You have an unlimited license. "
+msgstr "Deine %s Lizenz wurde aktiviert. Du hast eine unlimitierte Lizenz."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:207
+msgid "Your %s license has been activated. You have used %d/%d activations. "
+msgstr "Deine %s Lizenz wurde aktiviert. Du hast %d/%d Aktivierungen genutzt."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:212
+msgid "<a href=\"%s\">Did you know you can upgrade your license?</a>"
+msgstr "<a href=\"%s\"> Weisst du wie du deine Lizenz upgraden kannst?</a>"
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:216
+msgid ""
+"<a href=\"%s\">Your license is expiring in %d days, would you like to extend"
+" it?</a>"
+msgstr "<a href=\"%s\">Deine Lizenz verfällt in %d Tagen, willst du sie verlängern?</a>"
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:225
+msgid ""
+"You've reached your activation limit. You must <a href=\"%s\">reset</a> or "
+"<a href=\"%s\">upgrade your license</a> to use it on this site."
+msgstr "Du hast dein Aktiviereung-Limit erreicht. Du musst <a href=\"%s\">zurücksetzen</a> oder <a href=\"%s\">deine Lizenz wechseln</a> um es auf dieser Seite zu nutzen."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:229
+msgid ""
+"Your license has expired. You must <a href=\"%s\">renew your license</a> if "
+"you want to use it again."
+msgstr "Deine Lizenz ist abgelaufen. Du musst deine <a href=\"%s\">Lizenz erneuern</a>, wenn du es wieder benutzen möchtest."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:232
+msgid "Failed to activate your license, your license key seems to be invalid."
+msgstr "Die Lizenz konnte nicht aktiviert werden, die Lizenz scheint ungültig zu sein."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:257
+msgid "Your %s license has been deactivated."
+msgstr "Dein %s wurde deaktiviert."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:262
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:66
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:74
+msgid ""
+"Your plugin license has expired. You will no longer have access to plugin "
+"updates unless you <a href=\"%s\">renew your license</a>."
+msgstr "Deine Lizenz ist abgelaufen. Du hast somit keinen Zugriff mehr auf Updates bis du deine <a href=\"%s\">Lizenz erneuert</a> hast."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:264
+msgid "Failed to deactivate your %s license."
+msgstr "Die %s Lizenz konnte nicht deaktiviert werden."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:302
+msgid "Request error: \"%s\""
+msgstr "Fehler: \"%s\""
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:461
+msgid "%s: License Settings"
+msgstr "%s: Lizenz Einstellungen"
+
+#: newsletter-for-wordpress-pro/includes/license/class-plugin-license-manager.php:67
+msgid ""
+"%s is network activated, please contact your site administrator to manage "
+"the license."
+msgstr "%s ist Netzwerk aktiviert, bitte kontaktiere den Netzwerk Admin um die Lizenz zu verwalten."
+
+#: newsletter-for-wordpress-pro/includes/license/class-update-manager.php:64
+msgid ""
+"%s failed to check for updates because of the following error: <em>%s</em>"
+msgstr "%s  konnte nicht auf Updates prüfen, wegen dem folgenden Fehler: <em>%s</em>"
+
+#: newsletter-for-wordpress-pro/includes/license/class-update-manager.php:126
+msgid ""
+"This site has not been activated properly on nl4wp.com and thus cannot check"
+" for future updates. Please activate your site with a valid license key."
+msgstr "Diese Seite wurde nicht korrekt auf nl4wp.com aktiviert und kann deshalb nicht auf Updates überprüft werden. Bitte aktiviere deine Seite mit einem gültigen Lizenz-Key."
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:23
+msgid "License status"
+msgstr "Lizenz Status"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:26
+msgid "ACTIVE"
+msgstr "Aktiv"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:26
+msgid "you are receiving updates"
+msgstr "Du erhälst Updates"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:28
+msgid "EXPIRED"
+msgstr "ABGELAUFEN"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:28
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:30
+msgid "you are <strong>not</strong> receiving updates."
+msgstr "Du erhältst <strong>keine</strong> Updates."
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:30
+msgid "INACTIVE"
+msgstr "Nicht Aktiv"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:35
+msgid "Toggle license status"
+msgstr "Lizenz Status umschalten"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:39
+msgid "Deactivate License"
+msgstr "Deaktiviere Lizenz"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:40
+msgid ""
+"(deactivate your license so you can activate it on another WordPress site)"
+msgstr "(deaktiviere deine Lizenz um sie auf einer anderen Wordpress Seite zu nutzen)"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:44
+msgid "Activate License"
+msgstr "Aktiviere Lizenz"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:46
+msgid "Please enter a license key in the field below first."
+msgstr "Bitte trage vorher einen Lizenz Schlüssel in das Feld darunter ein."
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:54
+msgid "License Key"
+msgstr "Lizenz Schlüssel"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:56
+msgid "Paste your license key here, as found in the email receipt."
+msgstr "Füge deinen Lizenz-Key hier ein, den du per Email erhalten hast."
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:78
+msgid "Your %s license will expire on %s."
+msgstr "Deine %s Lizenz wird am %s verfallen."
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:82
+msgid "%sRenew your license now%s."
+msgstr "%sErneuere deine Lizenz jetzt%s."
+
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:49
+msgid "ID"
+msgstr "ID"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:50
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:462
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:498
+msgid "Form"
+msgstr "Formulare"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:51
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:52
+msgid "List(s)"
+msgstr "Liste(n)"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:53
+msgid "Last edited"
+msgstr "Zuletzt bearbeitet"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:104
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:108
+msgid "Edit Form"
+msgstr "Formular editieren"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:105
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:290
+msgid "Delete"
+msgstr "Löschen"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:137
+msgid "No NewsLetter list(s) selected yet."
+msgstr "Noch keine NewsLetter Liste(n) ausgewählt."
+
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:147
+msgid "You have not created any sign-up forms yet. Time to do so!"
+msgstr "Du hast noch kein Registrierungs-Formular erstellt. Es ist nun Zeit dafür!"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:46
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-reports.php:15
+msgid "Log"
+msgstr "Log"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:47
+msgid "Log Items"
+msgstr "Log Nachrichten"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:76
+msgid "Email"
+msgstr "E-Mail"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:78
+msgid "Data"
+msgstr "Daten"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:79
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:153
+msgid "Success"
+msgstr "Erfolgreich"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:80
+msgid "Type"
+msgstr "Art"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:81
+msgid "Source"
+msgstr "Quelle"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:82
+msgid "Subscribed"
+msgstr "Abonniert"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:150
+msgid "Log items deleted."
+msgstr "Logeintrag gelöscht."
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:324
+msgid "Registration"
+msgstr "Registrierung"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:333
+msgid "Top Bar"
+msgstr "Top Bar"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:341
+msgid "MultiSite registration"
+msgstr "MultiSite-Registrierung"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:354
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:358
+msgid "bbPress: New Topic"
+msgstr "bbPress: Neues Thema"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:362
+msgid "bbPress: New Reply"
+msgstr "bbPress: Neue Antwort"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:368
+msgid "Other Form"
+msgstr "Anderes Formular"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:434
+msgid "No subscribe requests found."
+msgstr "Keine Anmelde Anfragen gefunden."
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:456
+msgid "All"
+msgstr "Alle"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:468
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:529
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:543
+msgid "Order"
+msgstr "Sortierung"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:532
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:546
+msgid "Checkout"
+msgstr "Zur Kasse"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:558
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:565
+msgid "Comment"
+msgstr "Kommentar"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:558
+msgid "deleted"
+msgstr "gelöscht"
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:8
+msgid ""
+"Any settings you specify here will override the <a href=\"%s\">general form "
+"settings</a>. If no setting is specified, the corresponding general setting "
+"value will be used."
+msgstr "Alle Einstellungen, die du hier machst, überschreiben die <a href=\"%s\">allgemeinen Formular Einstellungen</a>. Wenn keine Einstellungen gemacht wurden, gelten die allgemeinen Einstellungen."
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:25
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:45
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:64
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:83
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:106
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:124
+msgid "Inherit"
+msgstr "Übernehmen"
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:137
+msgid "Send an email copy of the form data?"
+msgstr "Sende eine E-Mail Kopie der Formulardaten?"
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:141
+msgid ""
+"Tick \"yes\" if you want to receive an email with the form data for every "
+"sign-up request."
+msgstr "Wähle \"ja\" wenn du eine E-Mail mit den Formulardaten, für jedes Abonnement, empfangen möchtest."
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:144
+msgid "Send the copy to this email:"
+msgstr "Sende die Kopie an diese E-Mail:"
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:150
+msgid "Messages"
+msgstr "Nachrichten"
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:190
+msgid "Other errors"
+msgstr "Andere Fehler"
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:39
+msgid "Submit button"
+msgstr ""
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:41
+msgid "Subscribe / unsubscribe action"
+msgstr "Abonnieren / Abmelden Aktion"
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:90
+msgid "Form usage"
+msgstr "Formular-Nutzung"
+
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:78
+msgid ""
+"Select \"yes\" if you want to update existing subscribers with the data that"
+" is sent."
+msgstr "Wähle \"Ja\" wenn du die bisherigen Abonnenten mit den gesendeten Daten aktualisieren willst."
+
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:100
+msgid ""
+"Use %s in your Contact Form 7 mark-up to add a sign-up checkbox to your CF7 "
+"forms."
+msgstr "Benutze %s in deinem Contact Form 7 Markup um eine Abonnier-Checkbox deinen CF7 Formularen hinzuzufügen."
+
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:136
+msgid "Custom label texts"
+msgstr "Benutzerdefinierte Beschriftungs Texte"
+
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:137
+msgid ""
+"Override the default checkbox label text for any given checkbox using the "
+"fields below."
+msgstr "Überschreibe die Standard Checkbox Beschriftung für alle Checkboxen, mit dem Feld unterhalb."
+
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-form-settings.php:13
+msgid "Forms & Settings"
+msgstr "Formulare & Einstellungen"
+
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-form-settings.php:14
+msgid "CSS Styles Builder"
+msgstr "CSS Styles Builder"
+
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:10
+msgid "License & API Settings"
+msgstr "Lizenz und API Einstellungen"
+
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:113
+msgid "No lists were found in your NewsLetter account."
+msgstr "Es wurden keine Listen in deinem NewsLetter Account gefunden."
+
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-footer.php:10
+msgid ""
+"Need help? Have a look at the <a href=\"%s\">plugin documentation</a> or "
+"email us directly at <a href=\"%s\">support@nl4wp.com</a>."
+msgstr ""
+
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-footer.php:11
+msgid ""
+"Please use the same email address as you used when purchasing the plugin."
+msgstr "Bitte verwende die gleiche E-Mail Adresse, die du beim Kauf dieses Plugins verwendet hast."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:11
+msgid "Use the fields below to create custom styling rules for your forms."
+msgstr "Benutze diese Felder, um benutzerdefinierte Stilregeln für deine Formulare zu definieren."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:16
+msgid ""
+"Tip: have a look at our <a href=\"%s\">knowledge base</a> articles on <a "
+"href=\"%s\">creating an inline form</a> or <a href=\"%s\">styling your "
+"form</a> in general."
+msgstr ""
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:22
+msgid ""
+"You are not loading your custom stylesheet at this moment. To apply these "
+"styles on your site, select \"load custom form styles\" in the <a "
+"href=\"%s\">NewsLetter for WordPress form settings</a>."
+msgstr ""
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:30
+msgid "Select form to build styles for:"
+msgstr "Wähle das Formular für das du Styles erstellen willst:"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:41
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:285
+msgid "Create at least one form first."
+msgstr "Erstelle zuerst mindestens ein Formular."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:57
+msgid "You need to have JavaScript enabled to see a preview of your form."
+msgstr "Du musst JavaScript aktivieren, um eine Vorschau zu erhalten!"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:62
+msgid "Form container style"
+msgstr "Formular-Container Style"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:66
+msgid "Form width"
+msgstr "Formularbreite"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:66
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:118
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:160
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:202
+msgid "px or %"
+msgstr "px oder %"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:70
+msgid "Text alignment"
+msgstr "Textausrichtung"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:73
+msgid "Choose alignment"
+msgstr "Ausrichtung wählen"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:74
+msgid "Left"
+msgstr "Links"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:75
+msgid "Center"
+msgstr "Zentriert"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:76
+msgid "Right"
+msgstr "Rechts"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:81
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:210
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:83
+msgid "Padding"
+msgstr "Innenabstand"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:89
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:168
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:219
+msgid "Border color"
+msgstr "Rahmenfarbe"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:91
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:170
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:215
+msgid "Border width"
+msgstr "Rahmenbreite"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:95
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:126
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:228
+msgid "Text color"
+msgstr "Schriftfarbe"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:97
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:128
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:230
+msgid "Text size"
+msgstr "Schriftgrösse"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:101
+msgid "Background image"
+msgstr "Hintergrundbild"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:114
+msgid "Label styles"
+msgstr "Label Styles"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:118
+msgid "Label width"
+msgstr "Labelbreite"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:132
+msgid "Text style"
+msgstr "Text Style"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:135
+msgid "Choose text style.."
+msgstr "Wähle Text-Style..."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:136
+msgid "Normal"
+msgstr "Normal"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:137
+msgid "Bold"
+msgstr "Fett"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:138
+msgid "Italic"
+msgstr "Kursiv"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:139
+msgid "Bold & Italic"
+msgstr "Fett & kursiv"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:142
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:174
+msgid "Display"
+msgstr "Anzeige"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:146
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:178
+msgid "Inline"
+msgstr "Inline"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:147
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:179
+msgid "New line"
+msgstr "Neue Zeile"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:156
+msgid "Field styles"
+msgstr "Feld Styles"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:160
+msgid "Field width"
+msgstr "Feldbreite"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:164
+msgid "Field height"
+msgstr "Feldhöhe"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:182
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:224
+msgid "Border radius"
+msgstr "Rahmenradius"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:186
+msgid "Focus outline"
+msgstr ""
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:198
+msgid "Button styles"
+msgstr ""
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:202
+msgid "Button width"
+msgstr ""
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:206
+msgid "Button height"
+msgstr ""
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:238
+msgid "Error and success messages"
+msgstr "Fehler- und Erfolgsmeldungen"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:242
+msgid "Success text color"
+msgstr "Erfolgs-Schriftfarbe"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:244
+msgid "Error text color"
+msgstr "Fehler-Schriftfarbe"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:252
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:256
+msgid "CSS Selector Prefix"
+msgstr "CSS Selektor Prefix"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:258
+msgid ""
+"Use this to create a more specific (and thus more \"important\") CSS "
+"selector."
+msgstr "Verwende dies um einen spezifischeren (und deshalb \"wichtigeren\") CSS Selektor zu erstellen."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:261
+msgid "Manual CSS"
+msgstr "Manuelles CSS"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:261
+msgid ""
+"The CSS rules you enter here will be appended to the custom stylesheet."
+msgstr "Die hier eingegebenen CSS Regeln werden am Ende des Custom Stylesheets angehängt."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:269
+msgid "Copy styles from other form"
+msgstr "Kopiere Styles von anderem Formular"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:283
+msgid "Copy Styles"
+msgstr "Kopiere Styles"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:283
+msgid ""
+"Are you sure you want to copy form styles from another form? This will "
+"overwrite current styles for this form."
+msgstr "Bist du sicher, dass du die Formular Styles von einem anderen Formular kopieren willst? Dadurch werden die bisherigen Style dieses Formulars überschrieben."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:298
+msgid "Are you sure you want to delete all custom styles for this form?"
+msgstr "Bist du sicher, dass du alle massgefertigten Styles für dieses Formular löschen willst?"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:298
+msgid "Delete Form Styles"
+msgstr "Formular-Styles löschen"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:305
+msgid "Form preview"
+msgstr "Formular-Vorschau"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:8
+msgid "Sign-Up Forms"
+msgstr "Registrierungs-Formulare"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:8
+msgid "Create New Form"
+msgstr "Neues Formular erstellen"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:16
+msgid "General form settings"
+msgstr "Allgemeine Formular Einstellungen"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:36
+msgid ""
+"If you %screated a custom stylesheet%s and want it to be loaded, select "
+"\"custom form styles\". Otherwise, choose the basic formatting styles or one"
+" of the default themes."
+msgstr "Wenn du ein %sbenutzerdefiniertes Stylesheet erstellt%s hast und dieses laden möchtest,  wähle \"eigenen Formular Stile\". Andernfalls wähle eines der Standard Formular Stile oder eines der Standard Themes."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:40
+msgid "Select Color"
+msgstr "Wähle eine Farbe"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:48
+msgid "Save all changes"
+msgstr "Alle Änderungen speichern"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:50
+msgid "Default NewsLetter settings"
+msgstr "Standard NewsLetter Einstellungen"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:51
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:109
+msgid ""
+"The following settings apply to <strong>all</strong> forms but can be "
+"overridden on a per-form basis."
+msgstr "Die folgenden Einstellungen gelten für <strong>alle</strong> Formulare, können aber auf Formular Basis überschreiben werden."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:108
+msgid "Default Form Settings"
+msgstr "Standard Formular Einstellungen"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:132
+msgid ""
+"Leave empty for no redirect. Otherwise, use complete (absolute) URLs, "
+"including <code>http://</code>."
+msgstr "Für eine Weiterleitung bitte die kompletten (absoluten) URLs angeben, inklusive <code>http://</code>, ansonsten leer lassen."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:137
+msgid "Default Messages"
+msgstr "Standardnachrichten"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:15
+msgid "Today"
+msgstr "Heute"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:16
+msgid "Yesterday"
+msgstr "Gestern"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:17
+msgid "Last Week"
+msgstr "Letzte Woche"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:18
+msgid "Last Month"
+msgstr "Letzten Monat"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:19
+msgid "Last Quarter"
+msgstr "Letztes Quartal"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:20
+msgid "Last Year"
+msgstr "Letztes Jahr"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:21
+msgid "Custom"
+msgstr "Individuell"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:25
+msgid "From"
+msgstr "Von"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:32
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:57
+msgid "Jan"
+msgstr "Jan"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:33
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:58
+msgid "Feb"
+msgstr "Feb"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:34
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:59
+msgid "Mar"
+msgstr "Mrz"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:35
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:60
+msgid "Apr"
+msgstr "Apr"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:36
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:61
+msgid "May"
+msgstr "Mai"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:37
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:62
+msgid "Jun"
+msgstr "Jun"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:38
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:63
+msgid "Jul"
+msgstr "Jul"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:39
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:64
+msgid "Aug"
+msgstr "Aug"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:40
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:65
+msgid "Sep"
+msgstr "Sep"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:41
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:66
+msgid "Oct"
+msgstr "Okt"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:42
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:67
+msgid "Nov"
+msgstr "Nov"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:43
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:68
+msgid "Dec"
+msgstr "Dez"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:50
+msgid "To"
+msgstr "Bis"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:76
+msgid "Filter"
+msgstr "Filter"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:83
+msgid "Show these lines:"
+msgstr "Diese Zeilen anzeigen:"
+
+#. Plugin URI of the plugin/theme
+msgid "https://nl4wp.com/"
+msgstr "https://nl4wp.com/"
+
+#. Description of the plugin/theme
+msgid "Adds various sign-up methods to your website."
+msgstr "Fügt deiner Webseite verschiedene Methoden hinzu um Listen zu abonnieren."
+
+#. Author of the plugin/theme
+msgid "Danny van Kooten"
+msgstr "Danny van Kooten"
+
+#. Author URI of the plugin/theme
+msgid "http://dannyvankooten.com"
+msgstr "http://dannyvankooten.com"

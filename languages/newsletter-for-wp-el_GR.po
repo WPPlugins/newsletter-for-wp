@@ -1,0 +1,2102 @@
+# Copyright (C) 2015 Danny van Kooten
+# This file is distributed under the GPL v3.
+# Translators:
+# Dimitris Lioris <lioris.dim@gmail.com>, 2015
+# Katie Aggelakou <e.ecodress@gmail.com>, 2015
+# Michael Kotsarinis <mk73628@gmail.com>, 2015
+# Spyros Tzortzis <spytzo@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: NewsLetter for WordPress\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/newsletter-for-wp\n"
+"POT-Creation-Date: 2015-05-26 14:41:46+00:00\n"
+"PO-Revision-Date: 2015-08-16 06:01+0000\n"
+"Last-Translator: Michael Kotsarinis <mk73628@gmail.com>\n"
+"Language-Team: Greek (Greece) (http://www.transifex.com/ibericode/newsletter-for-wordpress/language/el_GR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n 0.4.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2; _nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__; esc_html__;esc_attr_e; esc_html_e;esc_attr_x:1,2c; esc_html_x:1,2c;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:141
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:157
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:160
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:16
+msgid "Upgrade to NewsLetter for WordPress Pro"
+msgstr "Αναβαθμίστε σε NewsLetter για Wordpress Pro"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:179
+msgid "NewsLetter API Settings"
+msgstr "Ρυθμίσεις NewsLetter API"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:180
+msgid "NewsLetter"
+msgstr "NewsLetter"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:185
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:11
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:506
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:11
+msgid "Checkbox Settings"
+msgstr "Ρυθμίσεις Πλαισίου Ελέγχου"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:186
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:507
+msgid "Checkboxes"
+msgstr "Πλαίσια Ελέγχου"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:191
+#: newsletter-for-wordpress/includes/views/form-settings.php:9
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:364
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:512
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:91
+msgid "Form Settings"
+msgstr "Ρυθμίσεις φόρμας"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:192
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:513
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-form-settings.php:10
+msgid "Forms"
+msgstr "Φόρμες"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:196
+#: newsletter-for-wordpress/includes/admin/class-admin.php:197
+msgid "Upgrade to Pro"
+msgstr "Αναβάθμιση στην έκδοση Pro"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:283
+msgid "This option is only available in NewsLetter for WordPress Pro."
+msgstr "Αυτή η επιλογή είναι διαθέσιμη μόνο στο NewsLetter για Wordpress Pro"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:285
+#: newsletter-for-wordpress/includes/views/form-settings.php:29
+#: newsletter-for-wordpress/includes/views/form-settings.php:36
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:21
+msgid "(PRO ONLY)"
+msgstr "(ΜΟΝΟ για έκδοση PRO)"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:286
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:610
+msgid "Button text"
+msgstr "Κείμενο στο κουμπί"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:287
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:39
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:611
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:59
+msgid "Initial value"
+msgstr "Αρχική τιμή"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:288
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:29
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:34
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:39
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:612
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:49
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:54
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:59
+msgid "(optional)"
+msgstr "(προαιρετικό)"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:289
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:613
+msgid "Label for"
+msgstr "Ετικέτα για"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:290
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:614
+msgid "(or leave empty)"
+msgstr "(ή αφήστε κενό)"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:291
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:615
+msgid "Subscribe"
+msgstr "Εγγραφή"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:292
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:616
+msgid "Unsubscribe"
+msgstr "Κατάργηση εγγραφής"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:316
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:654
+msgid "Comment form"
+msgstr "Φόρμα σχολίου"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:317
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:655
+msgid "Registration form"
+msgstr "Φόρμα εγγραφής"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:321
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:659
+msgid "MultiSite forms"
+msgstr "Φόρμες MultiSite"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:325
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:663
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:337
+msgid "BuddyPress registration"
+msgstr "Εγγραφή BuddyPress"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:333
+#: newsletter-for-wordpress/includes/admin/class-admin.php:337
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:671
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:675
+msgid "%s checkout"
+msgstr "%s ολοκλήρωσης"
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:365
+msgid ""
+"The plugin can only fetch a maximum of 100 lists from NewsLetter, only your "
+"first 100 lists are shown."
+msgstr "Το πρόσθετο μπορεί να πάρει το πολύ 100 λίστες από το NewsLetter, μόνο οι πρώτες 100 λίστες φαίνονται."
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:370
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:719
+msgid "Renewed NewsLetter cache."
+msgstr "Ανανεωμένη προσωρινή μνήμη NewsLetter."
+
+#: newsletter-for-wordpress/includes/admin/class-admin.php:372
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:721
+msgid "Failed to renew NewsLetter cache - please try again later."
+msgstr "Αποτυχία να ανανεωθεί η cache του NewsLetter - παρακαλώ δοκιμάστε ξανά αργότερα."
+
+#: newsletter-for-wordpress/includes/class-widget.php:21
+msgid "NewsLetter Sign-Up Form"
+msgstr "Φόρμα Εγγραφής NewsLetter"
+
+#: newsletter-for-wordpress/includes/class-widget.php:23
+msgid "Displays your NewsLetter for WordPress sign-up form"
+msgstr "Εμφανίζει την φόρμα εγγραφής του NewsLetter για WordPress"
+
+#: newsletter-for-wordpress/includes/class-widget.php:67
+#: newsletter-for-wordpress-pro/includes/class-widget.php:71
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: newsletter-for-wordpress/includes/class-widget.php:70
+#: newsletter-for-wordpress-pro/includes/class-widget.php:82
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: newsletter-for-wordpress/includes/class-widget.php:74
+msgid ""
+"You can edit your sign-up form in the <a href=\"%s\">NewsLetter for WordPress"
+" form settings</a>."
+msgstr "Μπορείτε να τροποποιήσετε την φόρμα εγγραφής σας στις <a href=\"%s\">Ρυθμίσεις φόρμας του NewsLetter για Wordpress</a>."
+
+#: newsletter-for-wordpress/includes/functions/general.php:15
+#: newsletter-for-wordpress-pro/includes/class-newsletter.php:135
+#: newsletter-for-wordpress-pro/includes/config/default-form.php:3
+msgid "Email address"
+msgstr "Διεύθυνση email"
+
+#: newsletter-for-wordpress/includes/functions/general.php:16
+#: newsletter-for-wordpress-pro/includes/config/default-form.php:4
+#: newsletter-for-wordpress-pro/includes/config/inline-form.php:2
+msgid "Your email address"
+msgstr "Η ηλεκτρονική σας διεύθυνση"
+
+#: newsletter-for-wordpress/includes/functions/general.php:17
+#: newsletter-for-wordpress-pro/includes/config/default-form.php:5
+#: newsletter-for-wordpress-pro/includes/config/inline-form.php:3
+msgid "Sign up"
+msgstr "Εγγραφή"
+
+#: newsletter-for-wordpress/includes/functions/general.php:24
+#: newsletter-for-wordpress-pro/includes/config/default-options.php:9
+msgid "Sign me up for the newsletter!"
+msgstr "Να εγγραφώ στο newsletter!"
+
+#: newsletter-for-wordpress/includes/functions/general.php:44
+msgid ""
+"Thank you, your sign-up request was successful! Please check your e-mail "
+"inbox."
+msgstr "Σας ευχαριστούμε, το αίτημά σας για εγγραφή ήταν επιτυχές! Παρακαλώ ελέγξτε τα εισερχόμενα του email σας."
+
+#: newsletter-for-wordpress/includes/functions/general.php:45
+#: newsletter-for-wordpress-pro/includes/config/default-options.php:35
+msgid "Oops. Something went wrong. Please try again later."
+msgstr "Ωχ. Κάτι πήγε λάθος. Παρακαλώ δοκιμάστε αργότερα."
+
+#: newsletter-for-wordpress/includes/functions/general.php:46
+#: newsletter-for-wordpress-pro/includes/config/default-options.php:36
+msgid "Please provide a valid email address."
+msgstr "Παρακαλώ δώστε μας μία έγκυρη ηλεκτρονική διεύθυνση."
+
+#: newsletter-for-wordpress/includes/functions/general.php:47
+#: newsletter-for-wordpress-pro/includes/config/default-options.php:37
+msgid "Given email address is already subscribed, thank you!"
+msgstr "Η διεύθυνση email που δώσατε έχει ήδη εγγραφεί, σας ευχαριστούμε!"
+
+#: newsletter-for-wordpress/includes/functions/general.php:48
+#: newsletter-for-wordpress-pro/includes/config/default-options.php:38
+msgid "Please complete the CAPTCHA."
+msgstr "Παρακαλώ συμπληρώστε το CAPTCHA."
+
+#: newsletter-for-wordpress/includes/functions/general.php:49
+#: newsletter-for-wordpress-pro/includes/config/default-options.php:39
+msgid "Please fill in the required fields."
+msgstr "Παρακαλώ συμπληρώστε τα απαιτούμενα πεδία."
+
+#: newsletter-for-wordpress/includes/functions/general.php:50
+#: newsletter-for-wordpress-pro/includes/config/default-options.php:40
+msgid "You were successfully unsubscribed."
+msgstr "Απεγγραφήκατε επιτυχώς."
+
+#: newsletter-for-wordpress/includes/functions/general.php:51
+#: newsletter-for-wordpress-pro/includes/config/default-options.php:41
+msgid "Given email address is not subscribed."
+msgstr "Η διεύθυνση email που δώσατε δεν έχει εγγραφεί."
+
+#: newsletter-for-wordpress/includes/integrations/class-cf7.php:55
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:52
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:91
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:96
+#: newsletter-for-wordpress/includes/views/form-settings.php:106
+#: newsletter-for-wordpress/includes/views/form-settings.php:121
+#: newsletter-for-wordpress/includes/views/form-settings.php:134
+#: newsletter-for-wordpress/includes/views/form-settings.php:145
+#: newsletter-for-wordpress/includes/views/form-settings.php:164
+#: newsletter-for-wordpress/includes/views/form-settings.php:178
+#: newsletter-for-wordpress-pro/includes/integrations/class-cf7.php:57
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:17
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:37
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:56
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:75
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:98
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:116
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:139
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:52
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:60
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:71
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:113
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:118
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:59
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:72
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:82
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:97
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:115
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:123
+msgid "Yes"
+msgstr "Ναι"
+
+#: newsletter-for-wordpress/includes/integrations/class-cf7.php:55
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:56
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:91
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:96
+#: newsletter-for-wordpress/includes/views/form-settings.php:27
+#: newsletter-for-wordpress/includes/views/form-settings.php:110
+#: newsletter-for-wordpress/includes/views/form-settings.php:125
+#: newsletter-for-wordpress/includes/views/form-settings.php:136
+#: newsletter-for-wordpress/includes/views/form-settings.php:149
+#: newsletter-for-wordpress/includes/views/form-settings.php:168
+#: newsletter-for-wordpress/includes/views/form-settings.php:182
+#: newsletter-for-wordpress-pro/includes/integrations/class-cf7.php:57
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:21
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:41
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:60
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:79
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:102
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:120
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:140
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:52
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:62
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:75
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:113
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:118
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:22
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:63
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:73
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:86
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:101
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:116
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:124
+msgid "No"
+msgstr "Όχι"
+
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:235
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:238
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:300
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:309
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:235
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:238
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:300
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:309
+msgid "NewsLetter for WordPress - Error"
+msgstr "NewsLetter για WordPress - Σφάλμα"
+
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:236
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:236
+msgid ""
+"Please select a list to subscribe to in the <a href=\"%s\">checkbox "
+"settings</a>."
+msgstr "Παρακαλούμε επιλέξτε μια λίστα για εγγραφή στις <a href=\"%s\">ρυθμίσεις για checkbox</a>."
+
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:237
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:308
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:237
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:308
+msgid "This message is only visible to administrators for debugging purposes."
+msgstr "Αυτό το μήνυμα εμφανίζεται μόνο στους διαχειριστές για ανάγκες αποσφαλμάτωσης."
+
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:301
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:301
+msgid ""
+"The NewsLetter server returned the following error message as a response to "
+"our sign-up request:"
+msgstr "Ο διακομιστής του NewsLetter επέστρεψε το παρακάτω μήνυμα σφάλματος ως απάντηση στο αίτημά μας για εγγραφή:"
+
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:303
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:303
+msgid "This is the data that was sent to NewsLetter:"
+msgstr "Αυτά είναι τα δεδομένα που στάλθηκαν στο NewsLetter:"
+
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:304
+#: newsletter-for-wordpress-pro/includes/class-subscribe-request.php:216
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:304
+msgid "Email address:"
+msgstr "Διεύθυνση email:"
+
+#: newsletter-for-wordpress/includes/integrations/class-integration.php:306
+#: newsletter-for-wordpress-pro/includes/integrations/class-integration.php:306
+msgid "Merge variables:"
+msgstr "Μεταβλητές συγχώνευσης:"
+
+#. Plugin Name of the plugin/theme
+msgid "NewsLetter for WordPress"
+msgstr "NewsLetter για το WordPress"
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:12
+#: newsletter-for-wordpress/includes/views/form-settings.php:99
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:10
+msgid "NewsLetter Settings"
+msgstr "Ρυθμίσεις NewsLetter"
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:22
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:19
+msgid "API Settings"
+msgstr "Ρυθμίσεις API"
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:24
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:21
+msgid "CONNECTED"
+msgstr "ΣΥΝΔΕΔΕΜΕΝΟ"
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:26
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:23
+msgid "NOT CONNECTED"
+msgstr "ΜΗ ΣΥΝΔΕΔΕΜΕΝΟ"
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:32
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:29
+msgid "API Key"
+msgstr "Κλειδί API"
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:34
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:31
+msgid "Your NewsLetter API key"
+msgstr "Το κλειδί API του NewsLetter"
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:35
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:32
+msgid "Get your API key here."
+msgstr "Πάρτε το κλειδί API εδώ."
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:47
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:48
+msgid "NewsLetter Data"
+msgstr "Δεδομένα NewsLetter"
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:48
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:49
+msgid ""
+"The table below shows your NewsLetter lists data. If you applied changes to "
+"your NewsLetter lists, please use the following button to renew your cached "
+"data."
+msgstr "Ο παρακάτω πίνακας παρουσιάζει τα δεδομένα των λιστών σας στο NewsLetter. Αν πραγματοποιήσατε αλλαγές στις λίστες σας στο NewsLetter, παρακαλώ χρησιμοποιήστε το παρακάτω κουμπί για να ανανεώσετε τα δεδομένα προσωρινής μνήμης."
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:54
+#: newsletter-for-wordpress/includes/views/api-settings.php:125
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:55
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:126
+msgid "Renew NewsLetter lists"
+msgstr "Ανανέωση λιστών NewsLetter"
+
+#: newsletter-for-wordpress/includes/views/api-settings.php:112
+msgid "No lists were found in your NewsLetter account"
+msgstr "Δεν βρέθηκαν λίστες στον λογαριασμό σας στο NewsLetter."
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:16
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:14
+msgid ""
+"To use sign-up checkboxes, select at least one list and one form to add the "
+"checkbox to."
+msgstr "Για χρησιμοποιήσετε checkbox εγγραφής, επιλέξτε τουλάχιστον μια λίστα και μια φόρμα στις οποίες θα προστεθεί το checkbox."
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:21
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:21
+msgid "NewsLetter settings for checkboxes"
+msgstr "Ρυθμίσεις του NewsLetter για checkbox"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:25
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:26
+msgid ""
+"If you want to use sign-up checkboxes, select at least one NewsLetter list to"
+" subscribe people to."
+msgstr "Αν θέλετε να χρησιμοποιήσετε checkbox εγγραφής, επιλέξτε τουλάχιστον μία λίστα στην οποία θα εγγράφονται οι ενδιαφερόμενοι."
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:31
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:34
+msgid "NewsLetter Lists"
+msgstr "Λίστες NewsLetter"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:35
+#: newsletter-for-wordpress/includes/views/form-settings.php:48
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:17
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:38
+msgid "No lists found, <a href=\"%s\">are you connected to NewsLetter</a>?"
+msgstr "Δεν βρέθηκαν λίστες, <a href=\"%s\">είστε συνδεδεμένοι στο NewsLetter</a>;"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:42
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:45
+msgid ""
+"Select the list(s) to which people who check the checkbox should be "
+"subscribed."
+msgstr "Επιλέξτε τη λίστα(ες) στην οποία θα εγγράφονται όσοι επιλέγουν το checkbox."
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:48
+#: newsletter-for-wordpress/includes/views/form-settings.php:102
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:13
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:51
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:55
+msgid "Double opt-in?"
+msgstr "Διπλή επιβεβαίωση (double opt-in);"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:59
+#: newsletter-for-wordpress/includes/views/form-settings.php:113
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:28
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:53
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:66
+msgid ""
+"Select \"yes\" if you want people to confirm their email address before "
+"being subscribed (recommended)"
+msgstr "Επιλέξτε \"ναι\" εάν θέλετε οι χρήστες να επιβεβαιώνουν την ηλεκτρονική τους διεύθυνση προτού εγγραφούν (προτείνεται)"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:63
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:82
+msgid "Checkbox settings"
+msgstr "Ρυθμίσεις checkbox"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:67
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:85
+msgid "Add the checkbox to these forms"
+msgstr "Προσθέστε το checkbox σε αυτές τις φόρμες"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:79
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:92
+msgid "Selecting a form will automatically add the sign-up checkbox to it."
+msgstr "Η επιλογή μια φόρμας θα προσθέσει αυτόματα το checkbox εγγραφής σε αυτή."
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:83
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:105
+msgid "Checkbox label text"
+msgstr "Κείμενο ετικέτας checkbox"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:86
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:108
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:148
+msgid "HTML tags like %s are allowed in the label text."
+msgstr "Οι ετικέτες HTML όπως %s επιτρέπονται στο κείμενο της ετικέτας."
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:90
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:112
+msgid "Pre-check the checkbox?"
+msgstr "Να είναι το checkbox προεπιλεγμένο;"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:95
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:117
+msgid "Load some default CSS?"
+msgstr "Να φορτωθεί κάποιο προεπιλεγμένο CSS;"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:97
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:119
+msgid "Select \"yes\" if the checkbox appears in a weird place."
+msgstr "Επιλέξτε \"ναι\" αν το checkbox εμφανίζεται σε ένα περίεργο σημείο."
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:100
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:122
+msgid "WooCommerce checkbox position"
+msgstr "Θέση checkbox του WooCommerce"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:103
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:125
+msgid "After the billing details"
+msgstr "Μετά τις λεπτομέρειες χρέωσης"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:104
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:126
+msgid "After the additional information"
+msgstr "Μετά τις πρόσθετες πληροφορίες"
+
+#: newsletter-for-wordpress/includes/views/checkbox-settings.php:107
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:129
+msgid ""
+"Choose the position for the checkbox in your WooCommerce checkout form."
+msgstr "Αλλάξτε τη θέση του checkbox στην φόρμα της σελίδας ολοκλήρωσης παραγγελίας του WooCommerce"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:15
+msgid ""
+"To use the NewsLetter sign-up form, configure the form below and then either "
+"paste %s in the content of a post or page or use the  widget."
+msgstr "Για να χρησιμοποιήσετε τη φόρμα εγγραφής του NewsLetter, προσαρμόστε τη φόρμα παρακάτω και μετά είτε επικολλήστε το %s στο περιεχόμενο ενός άρθρου ή σελίδας ή χρησιμοποιήστε το widget."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:20
+msgid "Required form settings"
+msgstr "Απαραίτητες ρυθμίσεις φόρμας"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:24
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:19
+msgid "Load form styles (CSS)?"
+msgstr "Να φορτωθούν τα στυλ CSS της φόρμας;"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:28
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:23
+msgid "Yes, load basic form styles"
+msgstr "Ναι, να φορτωθούν τα βασικά στυλ της φόρμας"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:29
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:24
+msgid "Yes, load my custom form styles"
+msgstr "Ναι, να φορτωθούν τα προσαρμοσμένα μου στυλ φόρμας"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:30
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:25
+msgid "Yes, load default form theme"
+msgstr "Ναι, να φορτωθεί η προεπιλεγμένη φόρμα του θέματος"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:31
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:26
+msgid "Light Theme"
+msgstr "Ανοιχτόχρωμο Θέμα"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:32
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:27
+msgid "Red Theme"
+msgstr "Κόκκινο Θέμα"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:33
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:28
+msgid "Green Theme"
+msgstr "Πράσινο Θέμα"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:34
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:29
+msgid "Blue Theme"
+msgstr "Μπλε Θέμα"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:35
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:30
+msgid "Dark Theme"
+msgstr "Σκούρο Θέμα"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:36
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:31
+msgid "Custom Color Theme"
+msgstr "Προσαρμοσμένο Θέμα Χρώματος"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:41
+msgid ""
+"If you want to load some default CSS styles, select \"basic formatting "
+"styles\" or choose one of the color themes"
+msgstr "Αν θέλετε να φορτώσετε μερικά προκαθορισμένα στυλ CSS, επιλέξτε \"βασικά στυλ μορφοποίησης\" ή επιλέξτε ένα από χρωματικά θέματα"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:45
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:14
+msgid "Lists this form subscribes to"
+msgstr "Λίστες στις οποίες γίνεται εγγραφή από αυτή τη φόρμα"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:63
+msgid ""
+"Select the list(s) to which people who submit this form should be "
+"subscribed."
+msgstr "Επιλέξτε τη λίστα(ες) στην οποία θα εγγράφονται όσοι υποβάλλουν αυτή τη φόρμα."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:69
+msgid "Form mark-up"
+msgstr "Κώδικας φόρμας"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:79
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:91
+msgid ""
+"Use the shortcode %s to display this form inside a post, page or text "
+"widget."
+msgstr "Χρησιμοποιήστε το shortcode %s για να εμφανίσετε αυτή τη φόρμα μέσα σε ένα άρθρο, μία σελίδα ή μία μονάδα κειμένου."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:92
+#: newsletter-for-wordpress-pro/includes/views/parts/missing-fields-notice.php:4
+msgid "Your form is missing the following (required) form fields:"
+msgstr "Από την φόρμα σας απουσιάζουν τα παρακάτω (απαιτούμενα) πεδία:"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:117
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:71
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:57
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:70
+msgid "Send Welcome Email?"
+msgstr "Να αποσταλεί email καλωσορίσματος;"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:128
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:86
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:64
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:75
+msgid ""
+"Select \"yes\" if you want to send your lists Welcome Email if a subscribe "
+"succeeds (only when double opt-in is disabled)."
+msgstr "Επιλέξτε \"ναι\" εάν θέλετε να στείλετε email καλωσορίσματος στις λίστες σας όταν μία εγγραφή είναι επιτυχής (μόνο όταν η διπλή επιβεβαίωση είναι απενεργοποιημένη)."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:131
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:33
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:67
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:78
+msgid "Update existing subscribers?"
+msgstr "Να ενημερωθούν τα στοιχεία των ήδη εγγεγραμμένων;"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:138
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:47
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:89
+msgid ""
+"Select \"yes\" if you want to update existing subscribers (instead of "
+"showing the \"already subscribed\" message)."
+msgstr "Επιλέξτε \"ναι\" εάν θέλετε να ενημερωθούν τα στοιχεία των ήδη εγγεγραμμένων (αντί να εμφανιστεί μήνυμα ότι \"έχετε ήδη εγγραφεί\")."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:141
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:52
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:93
+msgid "Replace interest groups?"
+msgstr "Να αντικατασταθούν οι ομάδες ενδιαφερόντων;"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:152
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:66
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:104
+msgid ""
+"Select \"yes\" if you want to replace the interest groups with the groups "
+"provided instead of adding the provided groups to the member's interest "
+"groups (only when updating a subscriber)."
+msgstr "Επιλέξτε \"ναι\" εάν θέλετε να αντικατασταθούν οι ομάδες ενδιαφερόντων με τις ομάδες που παρέχονται αντί να προστεθούν οι ομάδες που παρέχονται στις ομάδες ενδιαφερόντων του μέλους (μόνο όταν γίνεται ενημέρωση ενός εγγεγραμμένου συνδρομητή). "
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:156
+msgid "Form Settings & Messages"
+msgstr "Ρυθμίσεις & Μηνύματα Φόρμας"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:160
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:94
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:113
+msgid "Enable AJAX form submission?"
+msgstr "Να επιτραπεί η χρήση AJAX στην καταχώριση της φόρμας;"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:171
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:108
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:118
+msgid "Select \"yes\" if you want to use AJAX (JavaScript) to submit forms."
+msgstr "Επιλέξτε \"ναι\" εάν επιθυμείτε τη χρήση AJAX (JavaScript) στις φόρμες εγγραφής."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:174
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:112
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:121
+msgid "Hide form after a successful sign-up?"
+msgstr "Να κρύβεται η φόρμα έπειτα από μία επιτυχημένη εγγραφή;"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:185
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:126
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:126
+msgid "Select \"yes\" to hide the form fields after a successful sign-up."
+msgstr "Επιλέξτε \"ναι\" ώστε να κρύβεται η φόρμα έπειτα από μία επιτυχημένη εγγραφή."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:188
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:130
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:129
+msgid "Redirect to URL after successful sign-ups"
+msgstr "Ανακατεύθυνση σε URL έπειτα από επιτυχημένες εγγραφές"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:190
+msgid "Example: %s"
+msgstr "Παράδειγμα: %s"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:191
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:133
+msgid ""
+"Leave empty or enter <code>0</code> for no redirect. Otherwise, use complete"
+" (absolute) URLs, including <code>http://</code>."
+msgstr "Αφήστε το κενό ή εισάγετε <code>0</code> εάν δεν θέλετε να γίνεται ανακατεύθυνση. Διαφορετικά, χρησιμοποιήστε πλήρη (απόλυτα) URL, συμπεριλαμβανομένου του <code>http://</code>."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:195
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:140
+msgid "Successfully subscribed"
+msgstr "Εγγραφήκατε επιτυχώς"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:198
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:156
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:143
+msgid ""
+"The text that shows when an email address is successfully subscribed to the "
+"selected list(s)."
+msgstr "Το κείμενο που εμφανίζεται όταν μια διεύθυνση ηλ. ταχυδρομείου εγγράφεται επιτυχώς στην επιλεγμένη λίστα (ή λίστες)."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:202
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:160
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:147
+msgid "Invalid email address"
+msgstr "Η διεύθυνση e-mail δεν είναι έγκυρη"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:205
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:163
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:150
+msgid "The text that shows when an invalid email address is given."
+msgstr "Το κείμενο που εμφανίζεται όταν μια διεύθυνση ηλ. ταχυδρομείου που επιχειρεί εγγραφή δεν είναι έγκυρη."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:209
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:167
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:154
+msgid "Required field missing"
+msgstr "Δεν έχει συμπληρωθεί κάποιο απαραίτητο πεδίο"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:212
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:170
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:157
+msgid ""
+"The text that shows when a required field for the selected list(s) is "
+"missing."
+msgstr "Το κείμενο που εμφανίζεται όταν ένα υποχρεωτικό πεδίο για την επιλεγμένη λίστα (ή λίστες) δεν έχει συμπληρωθεί."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:216
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:174
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:161
+msgid "Already subscribed"
+msgstr "Έχετε ήδη εγγραφεί"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:219
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:177
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:164
+msgid ""
+"The text that shows when the given email is already subscribed to the "
+"selected list(s)."
+msgstr "Το κείμενο που εμφανίζεται όταν η διεύθυνση ηλ. ταχυδρομείου που επιχειρεί εγγραφή είναι εγγεγραμμένη στην επιλεγμένη λίστα (ή λίστες)."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:224
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:182
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:169
+msgid "Invalid CAPTCHA"
+msgstr "Λάθος στο CAPTCHA"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:229
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:174
+msgid "General error"
+msgstr "Γενικό σφάλμα"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:232
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:193
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:177
+msgid "The text that shows when a general error occured."
+msgstr "Το κείμενο που εμφανίζεται όταν προκύπτει κάποιο γενικό σφάλμα."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:236
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:197
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:181
+msgid "Unsubscribed"
+msgstr "Απεγγραφή"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:239
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:200
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:184
+msgid ""
+"When using the unsubscribe method, this is the text that shows when the "
+"given email address is successfully unsubscribed from the selected list(s)."
+msgstr "Όταν γίνεται χρήση της μεθόδου κατάργησης εγγραφής, αυτό είναι το κείμενο που εμφανίζεται όταν η συγκεκριμένη διεύθυνση e-mail έχει απεγγραφεί επιτυχώς από την επιλεγμένη λίστα (ή λίστες)."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:243
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:204
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:188
+msgid "Not subscribed"
+msgstr "Μη εγγεγραμμένη"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:246
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:207
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:191
+msgid ""
+"When using the unsubscribe method, this is the text that shows when the "
+"given email address is not on the selected list(s)."
+msgstr "Όταν γίνεται χρήση της μεθόδου κατάργησης εγγραφής, αυτό είναι το κείμενο που εμφανίζεται όταν η συγκεκριμένη διεύθυνση e-mail δεν υπάρχει στην επιλεγμένη λίστα (ή λίστες)."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:252
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:213
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:197
+msgid "HTML tags like %s are allowed in the message fields."
+msgstr "Οι ετικέτες HTML όπως %s επιτρέπονται στα πεδία του μηνύματος."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:266
+msgid "Form Styling"
+msgstr "Στυλ Φόρμας"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:267
+msgid "Alter the visual appearance of the form by applying CSS rules to %s."
+msgstr "Τροποποιήστε την οπτική εμφάνιση της φόρμας εφαρμόζοντας κανόνες CSS στο %s."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:268
+msgid ""
+"You can add the CSS rules to your theme stylesheet using the <a "
+"href=\"%s\">Theme Editor</a> or by using a plugin like %s"
+msgstr "Μπορείτε να προσθέστε τους κανόνες CSS στο φύλλο στυλ του θέματός σας χρησιμοποιώντας τον <a href=\"%s\">Διορθωτή</a> ή με τη χρήση ενός πρόσθετου όπως το %s"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:269
+msgid ""
+"The <a href=\"%s\" target=\"_blank\">plugin FAQ</a> lists the various CSS "
+"selectors you can use to target the different form elements."
+msgstr "Το <a href=\"%s\" target=\"_blank\">FAQ του πρόσθετου</a> απαριθμεί τους διάφορους επιλογείς CSS που μπορείτε να χρησιμοποιήσετε για να επιλέξετε τα διάφορα στοιχεία της φόρμας."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:270
+msgid ""
+"If you need an easier way to style your forms, consider <a "
+"href=\"%s\">upgrading to NewsLetter for WordPress Pro</a> which comes with an"
+" easy Styles Builder."
+msgstr "Αν χρειάζεστε έναν ευκολότερο τρόπο για να διαμορφώσετε τις φόρμες σας, σκεφτείτε να <a href=\"%s\">αναβαθμίσετε στο NewsLetter for WordPress Pro</a> που διαθέτει έναν εύχρηστο Κατασκευαστή Στυλ."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:272
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:366
+msgid "Variables"
+msgstr "Μεταβλητές"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:274
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:11
+msgid ""
+"The following list of variables can be used to <a href=\"%s\">add some "
+"dynamic content to your form or success and error messages</a>."
+msgstr "Η ακόλουθη λίστα μεταβλητών μπορεί να χρησιμοποιηθεί για <a href=\"%s\">να προσθέσετε κάποιο δυναμικό περιεχόμενο στη φόρμα επιτυχίας και στα μηνύματα σφάλματος</a>."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:274
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:11
+msgid "This allows you to personalise your form or response messages."
+msgstr "Αυτό σας επιτρέπει να προσωποποιήσετε τη φόρμα σας ή τα απαντητικά μηνύματα."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:282
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:16
+msgid "Replaced with the visitor's email (if set in URL or cookie)."
+msgstr "Αντικαθίσταται με το email του επισκέπτη (αν ορίζεται στο URL ή σε cookie)."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:286
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:20
+msgid "Replaced with the form response (error or success messages)."
+msgstr "Αντικαθίσταται με τη φόρμα απάντησης (μηνύματα επιτυχίας ή σφάλματος)."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:291
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:25
+msgid "Replaced with a captcha field."
+msgstr "Αντικαθίσταται με ένα πεδίο captcha."
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:296
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:30
+msgid "Replaced with the number of subscribers on the selected list(s)"
+msgstr "Αντικαθίσταται με τον αριθμό συνδρομητών στην επιλεγμένη λίστα(ες)"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:300
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:34
+msgid "Replaced with the current site language, eg: %s"
+msgstr "Αντικαθίσταται με την τρέχουσα γλώσσα του ιστότοπου, πχ: "
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:304
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:38
+msgid "Replaced with the visitor's IP address"
+msgstr "Αντικαθίσταται με την IP του επισκέπτη"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:308
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:42
+msgid "Replaced with the current date (yyyy/mm/dd eg: %s)"
+msgstr "Αντικαθίσταται με την τρέχουσα ημερομηνία (yyyy/mm/dd πχ: %s)"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:312
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:46
+msgid "Replaced with the current time (hh:mm:ss eg: %s)"
+msgstr "Αντικαθίσταται με την τρέχουσα ώρα (hh:mm:ss πχ: %s)"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:316
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:50
+msgid ""
+"Replaced with the logged in user's email (or nothing, if there is no logged "
+"in user)"
+msgstr "Αντικαθίσταται με το email του συνδεδεμένου χρήστη (ή τίποτα, αν δεν υπάρχει συνδεδεμένος χρήστης)"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:320
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:54
+msgid "First name of the current user"
+msgstr "Όνομα του τρέχοντος χρήστη"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:324
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:58
+msgid "Last name of the current user"
+msgstr "Επώνυμο του τρέχοντος χρήστη"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:328
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:62
+msgid "Current user ID"
+msgstr "ID του τρέχοντος χρήστη"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:332
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:66
+msgid "Current URL"
+msgstr "Τρέχον URL"
+
+#: newsletter-for-wordpress/includes/views/form-settings.php:336
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-text-variables.php:70
+msgid "The value of the <strong>FNAME</strong> field, if set."
+msgstr "Η τιμή του πεδίου <strong>FNAME</strong>, αν έχει οριστεί."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:10
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:31
+msgid "Add a new field"
+msgstr "Προσθήκη ενός νέου πεδίου"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:12
+msgid "Use the tool below to generate the HTML for your form fields."
+msgstr "Χρησιμοποιήστε το παρακάτω εργαλείο για να παράξετε την HTML για τα πεδία της φόρμας σας."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:15
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:35
+msgid "Select NewsLetter field.."
+msgstr "Επιλέξτε πεδίο από το NewsLetter.."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:19
+msgid "Submit Button"
+msgstr "Κουμπί Υποβολής"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:20
+msgid "Subscribe / unsubscribe choice"
+msgstr "Επιλογή Εγγραφής/Απεγγραφής"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:21
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:40
+msgid "List choice"
+msgstr "Επιλογή λίστας"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:29
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:49
+msgid "Label"
+msgstr "Ετικέτα"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:34
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:54
+msgid "Placeholder"
+msgstr "Κείμενο υποκατάστασης (placeholder)"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:44
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:64
+msgid "Labels"
+msgstr "Ετικέτες"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:44
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:64
+msgid "(leave empty to hide)"
+msgstr "(αφήστε κενό για να κρυφτεί)"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:49
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:69
+msgid "Wrap in paragraph %s tags?"
+msgstr "Αναδίπλωση στις ετικέτες της παραγράφου %s;"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:54
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:73
+msgid "Required field?"
+msgstr "Απαραίτητο πεδίο;"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:58
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:77
+msgid "Add to form"
+msgstr "Προσθήκη στη φόρμα"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:62
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:81
+msgid "Generated HTML"
+msgstr "Παραγόμενη HTML"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-field-wizard.php:69
+msgid "Select at least one list first."
+msgstr "Επιλέξτε τουλάχιστον μία λίστα πρώτα."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-footer.php:11
+msgid ""
+"NewsLetter for WordPress is in need of translations. Is the plugin not "
+"translated in your language or do you spot errors with the current "
+"translations? Helping out is easy! Head over to <a href=\"%s\">the "
+"translation project and click \"help translate\"</a>."
+msgstr "Το NewsLetter για WordPress έχει ανάγκη από μεταφραστές. Δεν έχει μεταφραστεί το πρόσθετο στη γλώσσα σας ή βλέπετε σφάλματα στην υπάρχουσα μετάφραση; Είναι εύκολο να βοηθήσετε! Πηγαίνετε στο <a href=\"%s\">project της μετάφρασης και κλικάρετε \"help translate\"</a>."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-footer.php:14
+msgid ""
+"Enjoying this plugin? <a href=\"%s\">Upgrade to NewsLetter for WordPress "
+"Pro</a> for an even better plugin, you will love it."
+msgstr "Σας αρέσει αυτό το πρόσθετο; <a href=\"%s\">Αναβαθμίστε στο NewsLetter for WordPress Pro</a> για ένα ακόμα καλύτερο πρόσθετο, θα το αγαπήσετε."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-footer.php:20
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-footer.php:13
+msgid ""
+"This plugin is not developed by or affiliated with NewsLetter in any way."
+msgstr "Αυτό το πρόσθετο δεν έχει αναπτυχθεί ή δεν είναι με κανένα τρόπο συνδεδεμένο με το NewsLetter."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:9
+msgid "Looking for help?"
+msgstr "Ψάχνετε για βοήθεια;"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:10
+msgid ""
+"Make sure to look at the <a href=\"%s\">NewsLetter for WordPress "
+"documentation</a>, the plugin <a href=\"%s\">FAQ</a> or use the <a "
+"href=\"%s\">support forums</a> on WordPress.org."
+msgstr "Κοιτάξτε στην <a href=\"%s\">τεκμηρίωση του NewsLetter for WordPress</a>, στο <a href=\"%s\">FAQ</a> του πρόσθετου ή χρησιμοποιήστε τα <a href=\"%s\">φόρουμ υποστήριξης</a> στο "
+
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:14
+msgid "Do you enjoy this plugin?"
+msgstr "Σας αρέσει αυτό το πρόσθετο;"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:17
+msgid "Leave a %s plugin review on WordPress.org"
+msgstr "Αφήστε μία %s κριτική για το πρόσθετο στο WordPress.org"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:18
+msgid "I am using NewsLetter for WordPress by @DannyvanKooten - it is great!"
+msgstr "Χρησιμοποιώ το NewsLetter για WordPress του @DannyvanKooten - είναι υπέροχο!"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:18
+msgid "Tweet about NewsLetter for WordPress"
+msgstr "Τουιτάρετε για το NewsLetter για WordPress"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:19
+msgid ""
+"Review the plugin on your blog and link to <a href=\"%s\">the plugin "
+"page</a>."
+msgstr "Αφήστε μία κριτική για το πρόσθετο στο ιστολόγιό σας και βάλτε σύνδεσμο προς <a href=\"%s\">τη σελίδα του πρόσθετου</a>."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:19
+msgid "There is an <a href=\"%s\">affiliate program</a> as well."
+msgstr "Υπάρχει ένα <a href=\"%s\">πρόγραμμα συνεργασίας</a> επίσης."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-need-support.php:20
+msgid "Vote \"works\" on the WordPress.org plugin page"
+msgstr "Ψηφίστε \"works\" στη σελίδα του πρόσθετου στο WordPress"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:10
+msgid ""
+"This plugin has an even better premium version, you will absolutely love it."
+msgstr "Αυτό το πρόσθετο έχει μία ακόμα καλύτερη premium έκδοση, σίγουρα θα την αγαπήσετε."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:11
+msgid "Some differences with this free version of the plugin:"
+msgstr "Μερικές διαφορές με τη δωρεάν έκδοση του πρόσθετου:"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:14
+msgid "Multiple forms"
+msgstr "Πολλαπλές φόρμες"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:15
+msgid "Each subscribing to one or multiple NewsLetter lists."
+msgstr "Κάθε μια εγγράφει σε μία ή πολλές λίστες του NewsLetter."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:18
+msgid "AJAX forms"
+msgstr "Φόρμες "
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:19
+msgid "Forms do not require a full page reload."
+msgstr "Οι φόρμες δεν απαιτούν πλήρη επαναφόρτωση της σελίδας."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:22
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-reports.php:14
+msgid "Statistics"
+msgstr "Στατιστικά"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:23
+msgid "Every form interaction is logged and visualised in insightful charts."
+msgstr "Κάθε αλληλεπίδραση με τη φόρμα καταγράφετε και απεικονίζεται σε κατανοητά γραφήματα."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:26
+msgid "Styles Builder"
+msgstr "Κατασκευαστής Στυλ"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:27
+msgid "Create beautiful form themes with ease."
+msgstr "Δημιουργήστε όμορφα θέματα για τις φόρμες με ευκολία."
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:31
+msgid "Upgrade Now"
+msgstr "Αναβάθμιση Τώρα"
+
+#: newsletter-for-wordpress/includes/views/parts/admin-upgrade-to-pro.php:32
+msgid "View Demo"
+msgstr "Δείτε μια Επίδειξη"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:176
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:240
+msgid "Save Form"
+msgstr "Αποθηκεύστε τη Φόρμα"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:244
+msgid "Update Form"
+msgstr "Ανανεώστε τη Φόρμα"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:295
+msgid "Back to general form settings"
+msgstr "Πίσω στις γενικές ρυθμίσεις φόρμας"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:297
+msgid "Form updated."
+msgstr "Η φόρμα ανανεώθηκε."
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:298
+msgid "Form saved."
+msgstr "Η φόρμα αποθηκεύτηκε."
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:365
+msgid "Optional Settings"
+msgstr "Προαιρετικές Ρυθμίσεις"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:500
+msgid "NewsLetter & Plugin License Settings"
+msgstr "Ρυθμίσεις αδειών του NewsLetter & του πρόσθετου"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:501
+msgid "NewsLetter & License"
+msgstr "NewsLetter & Άδεια"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:517
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:518
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-reports.php:10
+msgid "Reports"
+msgstr "Αναφορές"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:709
+msgid ""
+"Please make sure the plugin is connected to NewsLetter. <a "
+"href=\"%s\">Provide a valid API key.</a>"
+msgstr "Παρακαλώ βεβαιωθείτε ότι το πρόσθετο είναι συνδεδεμένο στο NewsLetter. <a href=\"%s\">Δώστε ένα έγκυρο κλειδί API.</a>."
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:824
+msgid ""
+"You disabled logging using the %s filter. Re-enable it to use the Reports "
+"page."
+msgstr "Απενεργοποιήσατε την καταγραφή με το φίλτρο %s. Ενεργοποιήστε το ξανά για να χρησιμοποιήσετε τη σελίδα Αναφορών."
+
+#: newsletter-for-wordpress-pro/includes/admin/class-admin.php:840
+msgid ""
+"<strong>Welcome to NewsLetter for WordPress Pro!</strong> We transfered the "
+"settings you set in the Lite version, you can safely <a "
+"href=\"%s\">deactivate it now</a>."
+msgstr "<strong>Καλωσήλθατε στο NewsLetter for WordPress Pro!</strong> Μεταφέραμε τις ρυθμίσεις που έχετε ορίσει στη Lite έκδοση, μπορείτε με ασφάλεια να την <a href=\"%s\">απενεργοποιήσετε τώρα</a>."
+
+#: newsletter-for-wordpress-pro/includes/admin/class-statistics.php:130
+msgid "End date can't be before the start date"
+msgstr "Η ημερομηνία λήξης δεν μπορεί να είναι πριν την ημερομηνία έναρξης."
+
+#: newsletter-for-wordpress-pro/includes/admin/class-styles-builder.php:436
+msgid ""
+"Couldn't create the stylesheet. Manually add the generated CSS to your theme"
+" stylesheet or use a plugin like <em>%s</em>."
+msgstr "Αδυναμία δημιουργίας του φύλλου στυλ. Εισάγετε με το χέρι το CSS που δημιουργήθηκε στο φύλλο στυλ του θέματός σας ή χρησιμοποιήστε ένα πρόσθετο όπως το <em>%s</em>."
+
+#: newsletter-for-wordpress-pro/includes/admin/class-styles-builder.php:437
+msgid "%sShow generated CSS%s"
+msgstr "%sΕμφάνιση δημιουργηθέντος CSS%s"
+
+#: newsletter-for-wordpress-pro/includes/admin/class-styles-builder.php:447
+msgid "The %sCSS Stylesheet%s has been created."
+msgstr "Το %sΦύλλο στυλ CSS%s έχει δημιουργηθεί."
+
+#: newsletter-for-wordpress-pro/includes/class-form-manager.php:263
+msgid "<strong>Error:</strong> Please specify a form ID. Example: %s."
+msgstr "<strong>Σφάλμα:</strong> Παρακαλώ καθορίστε ένα ID φόρμας. Παράδειγμα: %s."
+
+#: newsletter-for-wordpress-pro/includes/class-form-manager.php:278
+msgid ""
+"<strong>Error:</strong> Sign-up form not found. Please check if you used the"
+" correct form ID."
+msgstr "<strong>Σφάλμα:</strong> Δεν βρέθηκε φόρμα εγγραφής. Παρακαλούμε ελέγξτε αν χρησιμοποιήσατε το σωστό ID φόρμας."
+
+#: newsletter-for-wordpress-pro/includes/class-newsletter.php:140
+msgid "IP Address"
+msgstr "Διεύθυνση IP"
+
+#: newsletter-for-wordpress-pro/includes/class-subscribe-request.php:199
+msgid "New NewsLetter Sign-Up"
+msgstr "Νέα εγγραφή στο "
+
+#: newsletter-for-wordpress-pro/includes/class-subscribe-request.php:207
+msgid "New Sign-Up"
+msgstr "Νέα Εγγραφή"
+
+#: newsletter-for-wordpress-pro/includes/class-subscribe-request.php:208
+msgid "<strong>%s</strong> signed-up at %s on %s using the form \"%s\"."
+msgstr "<strong>%s</strong> εγγράφηκε σε %s την %s χρησιμοποιώντας τη φόρμα \"%s\"."
+
+#: newsletter-for-wordpress-pro/includes/class-subscribe-request.php:213
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:77
+msgid "List"
+msgstr "Λίστα"
+
+#: newsletter-for-wordpress-pro/includes/class-subscribe-request.php:253
+msgid "Other fields"
+msgstr "Άλλα πεδία"
+
+#: newsletter-for-wordpress-pro/includes/class-subscribe-request.php:275
+msgid ""
+"Note that you've enabled double opt-in for the \"%s\" form. The user won't "
+"be added to the selected NewsLetter lists until they confirm their email "
+"address."
+msgstr "Σημειώστε ότι έχετε ενεργοποιήσει τη διπλή επιβεβαίωση για τη φόρμα \"%s\". Ο χρήστης δεν θα προστεθεί στις επιλεγμένες λίστες του NewsLetter μέχρι να επιβεβαιώσουν τη διεύθυνση ηλ. ταχυδρομείου τους."
+
+#: newsletter-for-wordpress-pro/includes/class-subscribe-request.php:277
+msgid "This email was auto-sent by the NewsLetter for WordPress plugin."
+msgstr "Αυτό το μήνυμα ηλ. ταχυδρομείου στάλθηκε αυτόματα από το πρόσθετο NewsLetter for WordPress."
+
+#: newsletter-for-wordpress-pro/includes/class-widget.php:20
+msgid "NewsLetter for WP Form"
+msgstr "Φόρμα του NewsLetter for WP"
+
+#: newsletter-for-wordpress-pro/includes/class-widget.php:21
+msgid "Displays one of your NewsLetter for WordPress sign-up forms"
+msgstr "Εμφανίζει μια από τις φόρμες σας εγγραφής του NewsLetter για WordPress"
+
+#: newsletter-for-wordpress-pro/includes/class-widget.php:43
+msgid ""
+"Please select the sign-up form you'd like to show here in the <a "
+"href=\"%s\">widget settings</a>."
+msgstr "Παρακαλούμε επιλέξτε της φόρμα εγγραφής που θα θέλατε να εμφανίζεται εδώ στις <a href=\"%s\">ρυθμίσεις για widget</a>."
+
+#: newsletter-for-wordpress-pro/includes/class-widget.php:86
+msgid "Form:"
+msgstr "Φόρμα:"
+
+#: newsletter-for-wordpress-pro/includes/class-widget.php:88
+msgid "Select the form to show"
+msgstr "Επιλέξτε τη φόρμα που θα εμφανίζεται"
+
+#: newsletter-for-wordpress-pro/includes/class-widget.php:96
+msgid "You don't have any sign-up forms. <a href=\"%s\">Create one now.</a>"
+msgstr "Δεν έχετε φόρμες εγγραφής. <a href=\"%s\">Δημιουργήστε μία τώρα.</a>"
+
+#: newsletter-for-wordpress-pro/includes/config/default-options.php:34
+msgid ""
+"Thank you, your sign-up request was successful! Please check your email "
+"inbox to confirm."
+msgstr "Σας ευχαριστούμε, το αίτημά σας για εγγραφή ήταν επιτυχές! Παρακαλούμε ελέγξτε τα εισερχόμενα του email σας για την επιβεβαίωση."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:144
+msgid "I know. Don't bug me."
+msgstr "Το ξέρω. Μην με ενοχλείτε."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:163
+msgid ""
+"<b>Warning!</b> You're blocking external requests which means you won't be "
+"able to get %s updates. Please add %s to %s."
+msgstr "<b>Προσοχή!</b> Μπλοκάρετε εξωτερικά αιτήματα που σημαίνει ότι δεν θα μπρείτε να λαμβάνετε ενημερώσεις %s. Παρακαλούμε προσθέστε %s σε %s."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:205
+msgid "Your %s license has been activated. You have an unlimited license. "
+msgstr "Η %s άδειά σας έχει ενεργοποιηθεί. Έχετε απεριόριστη άδεια."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:207
+msgid "Your %s license has been activated. You have used %d/%d activations. "
+msgstr "Η %s άδειά σας έχει ενεργοποιηθεί. Έχετε χρησιμοποιήσει %d/%d ενεργοποιήσεις."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:212
+msgid "<a href=\"%s\">Did you know you can upgrade your license?</a>"
+msgstr "<a href=\"%s\">Γνωρίζατε ότι μπορείτε να αναβαθμίσετε την άδειά σας;</a>"
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:216
+msgid ""
+"<a href=\"%s\">Your license is expiring in %d days, would you like to extend"
+" it?</a>"
+msgstr "<a href=\"%s\">Η άδειά σας λήγει σε %d ημέρες, θα θέλατε να την επεκτείνετε;</a>"
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:225
+msgid ""
+"You've reached your activation limit. You must <a href=\"%s\">reset</a> or "
+"<a href=\"%s\">upgrade your license</a> to use it on this site."
+msgstr "Έχετε φτάσει το όριό σας ενεργοποίησης. Πρέπει να <a href=\"%s\">επαναφέρετε</a> ή να <a href=\"%s\">αναβαθμίσετε την άδειά σας</a> για να τη χρησιμοποιήσετε σε αυτό τον ιστότοπο."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:229
+msgid ""
+"Your license has expired. You must <a href=\"%s\">renew your license</a> if "
+"you want to use it again."
+msgstr "Η άδειά σας έχει λήξει. Πρέπει να <a href=\"%s\">ανανεώσετε την άδειά σας</a> αν θέλετε να τη χρησιμοποιήσετε ξανά."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:232
+msgid "Failed to activate your license, your license key seems to be invalid."
+msgstr "Αποτυχία ενεργοποίησης της άδειάς σας, το κλειδί σας ενεργοποίησης φαίνεται ότι δεν είναι έγκυρο."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:257
+msgid "Your %s license has been deactivated."
+msgstr "Η %s άδειά σας έχει απενεργοποιηθεί."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:262
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:66
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:74
+msgid ""
+"Your plugin license has expired. You will no longer have access to plugin "
+"updates unless you <a href=\"%s\">renew your license</a>."
+msgstr "Η άδεια του προσθέτου σας έχει λήξει. Δεν θα έχετε πλέον ενημερώσεις του πρόσθετου εκτός αν <a href=\"%s\">ανανεώσετε την άδειά σας</a>."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:264
+msgid "Failed to deactivate your %s license."
+msgstr "Αποτυχία απενεργοποίησης της %s άδειάς σας."
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:302
+msgid "Request error: \"%s\""
+msgstr "Σφάλμα αιτήματος: "
+
+#: newsletter-for-wordpress-pro/includes/license/class-license-manager.php:461
+msgid "%s: License Settings"
+msgstr "%s: Ρυθμίσεις Αδειών"
+
+#: newsletter-for-wordpress-pro/includes/license/class-plugin-license-manager.php:67
+msgid ""
+"%s is network activated, please contact your site administrator to manage "
+"the license."
+msgstr "%s ενεργοποιείται μέσω διαδικτύου, παρακαλούμε επικοινωνήστε με το διαχειριστή του ιστοτόπου σας για να διαχιεριστείτε την άδεια."
+
+#: newsletter-for-wordpress-pro/includes/license/class-update-manager.php:64
+msgid ""
+"%s failed to check for updates because of the following error: <em>%s</em>"
+msgstr "%s απέτυχε να ελέγξει για ενημερώσεις εξαιτίας του ακόλουθου σφάλματος: "
+
+#: newsletter-for-wordpress-pro/includes/license/class-update-manager.php:126
+msgid ""
+"This site has not been activated properly on nl4wp.com and thus cannot check"
+" for future updates. Please activate your site with a valid license key."
+msgstr "Αυτός ο ιστότοπος δεν έχει ενεργοποιηθεί σωστά στο nl4wp.com και έτσι δεν μπορεί να ελέγξει για ενημερώσεις. Παρακαλούμε ενεργοποιήστε τον ιστότοπό σας με ένα έγκυρο κλειδί άδειας."
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:23
+msgid "License status"
+msgstr "Κατάστασης άδειας"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:26
+msgid "ACTIVE"
+msgstr "ΕΝΕΡΓΗ"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:26
+msgid "you are receiving updates"
+msgstr "λαμβάνετε ενημερώσεις"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:28
+msgid "EXPIRED"
+msgstr "ΕΛΗΞΕ"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:28
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:30
+msgid "you are <strong>not</strong> receiving updates."
+msgstr "<strong>δεν</strong> λαμβάνετε ενημερώσεις."
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:30
+msgid "INACTIVE"
+msgstr "ΑΝΕΝΕΡΓΗ"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:35
+msgid "Toggle license status"
+msgstr "Εναλλαγή κατάστασης άδειας"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:39
+msgid "Deactivate License"
+msgstr "Απενεργοποίηση άδειας"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:40
+msgid ""
+"(deactivate your license so you can activate it on another WordPress site)"
+msgstr "(απενεργοποιήστε την άδειά σας για να την ενεργοποιήσετε σε άλλο ιστότοπο του WordPress)"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:44
+msgid "Activate License"
+msgstr "Eνεργοποίηση Άδειας"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:46
+msgid "Please enter a license key in the field below first."
+msgstr "Παρακαλούμε εισάγετε πρώτα ένα κλειδί αδείας στο πεδίο παρακάτω."
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:54
+msgid "License Key"
+msgstr "Κλειδί Άδειας"
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:56
+msgid "Paste your license key here, as found in the email receipt."
+msgstr "Επικολλήστε το κλειδί της άδειάς σας εδώ, όπως ακριβώς είναι στην απόδειξη στο μήνυμα."
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:78
+msgid "Your %s license will expire on %s."
+msgstr "Η %s άδειά σας θα λήξει στις "
+
+#: newsletter-for-wordpress-pro/includes/license/views/form.php:82
+msgid "%sRenew your license now%s."
+msgstr "%sΑνανεώστε την άδειά σας τώρα%s."
+
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:49
+msgid "ID"
+msgstr "ID"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:50
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:462
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:498
+msgid "Form"
+msgstr "Φόρμα"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:51
+msgid "Shortcode"
+msgstr "Σύντομος Κώδικας"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:52
+msgid "List(s)"
+msgstr "Λίστα(ες)"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:53
+msgid "Last edited"
+msgstr "Τελευταία επεξεργασία"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:104
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:108
+msgid "Edit Form"
+msgstr "Αλλαγή Φόρμας"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:105
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:290
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:137
+msgid "No NewsLetter list(s) selected yet."
+msgstr "Δεν έχουν επιλεγεί ακόμα λίστες του NewsLetter."
+
+#: newsletter-for-wordpress-pro/includes/tables/class-forms-table.php:147
+msgid "You have not created any sign-up forms yet. Time to do so!"
+msgstr "Δεν έχετε δημιουργήσει ακόμα φόρμες εγγραφής. Καιρός να το κάνετε!"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:46
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-reports.php:15
+msgid "Log"
+msgstr "Καταγραφή"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:47
+msgid "Log Items"
+msgstr "Στοιχεία Καταγραφής"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:76
+msgid "Email"
+msgstr "Email"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:78
+msgid "Data"
+msgstr "Δεδομένα"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:79
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:153
+msgid "Success"
+msgstr "Επιτυχία"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:80
+msgid "Type"
+msgstr "Τύπος"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:81
+msgid "Source"
+msgstr "Πηγή"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:82
+msgid "Subscribed"
+msgstr "Εγγεγραμμένοι"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:150
+msgid "Log items deleted."
+msgstr "Τα στοιχεία καταγραφής διαγράφηκαν."
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:324
+msgid "Registration"
+msgstr "Εγγραφή"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:333
+msgid "Top Bar"
+msgstr "Μπάρα Κορυφής"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:341
+msgid "MultiSite registration"
+msgstr "Εγγραφή MultiSite"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:354
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:358
+msgid "bbPress: New Topic"
+msgstr "bbPress: Νέο Θέμα"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:362
+msgid "bbPress: New Reply"
+msgstr "bbPress: Νέα Απάντηση"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:368
+msgid "Other Form"
+msgstr "Άλλη Φόρμα"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:434
+msgid "No subscribe requests found."
+msgstr "Δεν βρέθηκαν αιτήματα εγγραφής."
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:456
+msgid "All"
+msgstr "Όλα"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:468
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:529
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:543
+msgid "Order"
+msgstr "Σειρά"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:532
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:546
+msgid "Checkout"
+msgstr "Ολοκλήρωση"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:558
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:565
+msgid "Comment"
+msgstr "Σχόλιο"
+
+#: newsletter-for-wordpress-pro/includes/tables/class-log-table.php:558
+msgid "deleted"
+msgstr "διαγράφηκε"
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:8
+msgid ""
+"Any settings you specify here will override the <a href=\"%s\">general form "
+"settings</a>. If no setting is specified, the corresponding general setting "
+"value will be used."
+msgstr "Όποιες ρυθμίσεις κάνετε εδώ θα υπερισχύσουν των <a href=\"%s\">γενικών ρυθμίσεων φορμών</a>. Αν δεν καθορισθεί κάποια ρύθμιση εδώ, θα χρησιμοποιηθεί η αντίστοιχη τιμή από τις γενικές ρυθμίσεις."
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:25
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:45
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:64
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:83
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:106
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:124
+msgid "Inherit"
+msgstr "Κληρονόμηση"
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:137
+msgid "Send an email copy of the form data?"
+msgstr "Αποστολή με e-mail ενός αντιγράφου των δεδομένων της φόρμας;"
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:141
+msgid ""
+"Tick \"yes\" if you want to receive an email with the form data for every "
+"sign-up request."
+msgstr "Τσεκάρετε το \"ναι\" αν θέλετε να λαμβάνετε ένα μήνυμα ηλ. ταχυδρομείου με τα δεδομένα της φόρμας για κάθε αίτημα εγγραφής."
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:144
+msgid "Send the copy to this email:"
+msgstr "Αποστολή του αντιγράφου σε αυτό το e-mail:"
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:150
+msgid "Messages"
+msgstr "Μηνύματα"
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/optional-form-settings.php:190
+msgid "Other errors"
+msgstr "Άλλα σφάλματα"
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:39
+msgid "Submit button"
+msgstr "Κουμπί υποβολής"
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:41
+msgid "Subscribe / unsubscribe action"
+msgstr "Ενέργεια Εγγραφής/Απεγγραφής"
+
+#: newsletter-for-wordpress-pro/includes/views/metaboxes/required-form-settings.php:90
+msgid "Form usage"
+msgstr "Χρήση φόρμας"
+
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:78
+msgid ""
+"Select \"yes\" if you want to update existing subscribers with the data that"
+" is sent."
+msgstr "Επιλέξτε \"ναι\" αν θέλετε να ενημερώσετε τους υπάρχοντες συνδρομητές με τα δεδομένα που στάλθηκαν."
+
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:100
+msgid ""
+"Use %s in your Contact Form 7 mark-up to add a sign-up checkbox to your CF7 "
+"forms."
+msgstr "Χρησιμοποιήστε %s στον κώδικα της Contact Form 7 σας για να προσθέστε ένα checkbox εγγραφής στις CF7 φόρμες σας."
+
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:136
+msgid "Custom label texts"
+msgstr "Προσαρμοσμένα κείμενα ετικετών"
+
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-checkbox-settings.php:137
+msgid ""
+"Override the default checkbox label text for any given checkbox using the "
+"fields below."
+msgstr "Παράβλεψη του προεπιλεγμένου κειμένου ετικέτας checkbox για οποιοδήποτε από αυτά με χρήση των παρακάτω πεδίων."
+
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-form-settings.php:13
+msgid "Forms & Settings"
+msgstr "Φόρμες και ρυθμίσεις"
+
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-form-settings.php:14
+msgid "CSS Styles Builder"
+msgstr "Κατασκευαστής Στυλ CSS"
+
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:10
+msgid "License & API Settings"
+msgstr "Ρυθμίσεις Άδειας & API"
+
+#: newsletter-for-wordpress-pro/includes/views/pages/admin-general-settings.php:113
+msgid "No lists were found in your NewsLetter account."
+msgstr "Δεν βρέθηκαν λίστες στον λογαριασμό σας στο NewsLetter."
+
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-footer.php:10
+msgid ""
+"Need help? Have a look at the <a href=\"%s\">plugin documentation</a> or "
+"email us directly at <a href=\"%s\">support@nl4wp.com</a>."
+msgstr "Χρειάζεστε βοήθεια; Ρίξτε μια ματιά στην <a href=\"%s\">τεκμηρίωση του πρόσθετου</a> ή επικοινωνήστε απευθείας μαζί μας στο <a href=\"%s\">support@nl4wp.com</a>."
+
+#: newsletter-for-wordpress-pro/includes/views/parts/admin-footer.php:11
+msgid ""
+"Please use the same email address as you used when purchasing the plugin."
+msgstr "Παρακαλούμε χρησιμοποιήστε την ίδια διεύθυνση ηλ. ταχυδρομείου με την οποία αγοράσατε το πρόσθετο."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:11
+msgid "Use the fields below to create custom styling rules for your forms."
+msgstr "Χρησιμοποιήστε τα παρακάτω πεδία για να δημιουρφήσετε προσαρμοσμένου κανόνες διαμόρφωσης στυλ για τις φόρμες σας."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:16
+msgid ""
+"Tip: have a look at our <a href=\"%s\">knowledge base</a> articles on <a "
+"href=\"%s\">creating an inline form</a> or <a href=\"%s\">styling your "
+"form</a> in general."
+msgstr "Συμβουλή: ρίξτε μια ματιά στα άρθρα της <a href=\"%s\">γνωσιακής μας βάσης</a> για  <a href=\"%s\">δημιουργία inline φόρμας</a> ή γενικά <a href=\"%s\">διαμόρφωση στυλ της φόρμας σας</a>."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:22
+msgid ""
+"You are not loading your custom stylesheet at this moment. To apply these "
+"styles on your site, select \"load custom form styles\" in the <a "
+"href=\"%s\">NewsLetter for WordPress form settings</a>."
+msgstr "Δεν γίνεται φόρτωση των προσαρμοσμένων σας φύλλων στυλ αυτή τη στιγμή. Για να εφαρμοστούν αυτά τα στυλ στον ιστότοπό σας, επιλέξτε \"φόρτωση προσαρμοσμένων στυλ φόρμας\" στις <a href=\"%s\">ρυθμίσεις φόρμας του NewsLetter for WordPress</a>."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:30
+msgid "Select form to build styles for:"
+msgstr "Επιλέξτε τη φόρμα για την οποία θα φτιάξετε στυλ:"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:41
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:285
+msgid "Create at least one form first."
+msgstr "Δημιουργήστε τουλάχιστον μία φόρμα πρώτα."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:57
+msgid "You need to have JavaScript enabled to see a preview of your form."
+msgstr "Πρέπει να είναι ενεργοποιημένη η JavaScript για να δείτε μια προεπισκόπηση της φόρμας σας."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:62
+msgid "Form container style"
+msgstr "Στυλ περιέκτη φόρμας"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:66
+msgid "Form width"
+msgstr "Πλάτος φόρμας"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:66
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:118
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:160
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:202
+msgid "px or %"
+msgstr "px ή %"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:70
+msgid "Text alignment"
+msgstr "Ευθυγράμμιση κειμένου"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:73
+msgid "Choose alignment"
+msgstr "Επιλέξτε ευθυγράμμιση"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:74
+msgid "Left"
+msgstr "Αριστερά"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:75
+msgid "Center"
+msgstr "Κεντραρισμένο"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:76
+msgid "Right"
+msgstr "Δεξιά"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:81
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:210
+msgid "Background color"
+msgstr "Χρώμα φόντου"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:83
+msgid "Padding"
+msgstr "Απόσταση"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:89
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:168
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:219
+msgid "Border color"
+msgstr "Χρώμα περιγράμματος"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:91
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:170
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:215
+msgid "Border width"
+msgstr "Πλάτος περιγράμματος"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:95
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:126
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:228
+msgid "Text color"
+msgstr "Χρώμα κειμένου"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:97
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:128
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:230
+msgid "Text size"
+msgstr "Μέγεθος κειμένου"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:101
+msgid "Background image"
+msgstr "Εικόνα φόντου"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:114
+msgid "Label styles"
+msgstr "Στυλ Ετικετών"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:118
+msgid "Label width"
+msgstr "Πλάτος ετικέτας"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:132
+msgid "Text style"
+msgstr "Στυλ Κειμένου"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:135
+msgid "Choose text style.."
+msgstr "Επιλέξτε το στυλ του κειμένου.."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:136
+msgid "Normal"
+msgstr "Κανονικά"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:137
+msgid "Bold"
+msgstr "Έντονα"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:138
+msgid "Italic"
+msgstr "Πλάγια"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:139
+msgid "Bold & Italic"
+msgstr "Έντονα και πλάγια"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:142
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:174
+msgid "Display"
+msgstr "Εμφάνιση"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:146
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:178
+msgid "Inline"
+msgstr "Εντός γραμμής"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:147
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:179
+msgid "New line"
+msgstr "Νέα γραμμή"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:156
+msgid "Field styles"
+msgstr "Στυλ πεδίων"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:160
+msgid "Field width"
+msgstr "Πλάτος πεδίου"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:164
+msgid "Field height"
+msgstr "Ύψος πεδίου"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:182
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:224
+msgid "Border radius"
+msgstr "Ακτίνα περιγράμματος"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:186
+msgid "Focus outline"
+msgstr "Εστίαση περιγράμματος"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:198
+msgid "Button styles"
+msgstr "Στυλ κουμπιών"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:202
+msgid "Button width"
+msgstr "Πλάτος κουμπιού"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:206
+msgid "Button height"
+msgstr "Ύψος κουμπιού"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:238
+msgid "Error and success messages"
+msgstr "Μηνύματα επιτυχίας και σφάλματος"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:242
+msgid "Success text color"
+msgstr "Χρώμα κειμένου επιτυχίας"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:244
+msgid "Error text color"
+msgstr "Χρώμα κειμένου σφάλματος"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:252
+msgid "Advanced"
+msgstr "Προχωρημένες"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:256
+msgid "CSS Selector Prefix"
+msgstr "Πρόσημο Επιλογέα CSS"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:258
+msgid ""
+"Use this to create a more specific (and thus more \"important\") CSS "
+"selector."
+msgstr "Επιλέξτε το για να δημιουργήσετε έναν πιο εξειδικευμένο (άρα και πιο \"σημαντικό\") επιλογέα CSS."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:261
+msgid "Manual CSS"
+msgstr "Χειροκίνητο CSS"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:261
+msgid ""
+"The CSS rules you enter here will be appended to the custom stylesheet."
+msgstr "Οι κανόνες CSS που εισάγετε εδώ θα προστεθούν στο προσαρμοσμένο φύλλο στυλ."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:269
+msgid "Copy styles from other form"
+msgstr "Αντιγραφή στυλ από άλλη φόρμα"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:283
+msgid "Copy Styles"
+msgstr "Αντιγραφή Στυλ"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:283
+msgid ""
+"Are you sure you want to copy form styles from another form? This will "
+"overwrite current styles for this form."
+msgstr "Είστε σίγουροι ότι θέλετε να αντιγράψετε τα στυλ φόρμας από άλλη φόρμα; Αυτό θα αντικαταστήσει τα υπάρχοντα στυλ σε αυτή τη φόρμα."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:298
+msgid "Are you sure you want to delete all custom styles for this form?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε όλα τα προσαρμοσμένα στυλ για αυτή τη φόρμα;"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:298
+msgid "Delete Form Styles"
+msgstr "Διαγραφή Στυλ Φόρμας"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-css-builder.php:305
+msgid "Form preview"
+msgstr "Προεπισκόπηση φόρμας"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:8
+msgid "Sign-Up Forms"
+msgstr "Φόρμες Εγγραφής"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:8
+msgid "Create New Form"
+msgstr "Δημιουργία Νέας Φόρμας"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:16
+msgid "General form settings"
+msgstr "Γενικές ρυθμίσεις φόρμας"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:36
+msgid ""
+"If you %screated a custom stylesheet%s and want it to be loaded, select "
+"\"custom form styles\". Otherwise, choose the basic formatting styles or one"
+" of the default themes."
+msgstr "Αν έχετε %sδημιουργήσει ένα προσαρμοσμένο φύλλο στυλ%s και θέλετε να φορτωθεί, επιλέξτε \"προσαρμοσμένα στυλ φόρμας\". Αλλιώς, επιλέξτε τα βασικά στυλ μορφοποίησης ή ένα από τα προκαθορισμένα θέματα."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:40
+msgid "Select Color"
+msgstr "Επέλεξε χρώμα"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:48
+msgid "Save all changes"
+msgstr "Σώσε όλες τις αλλαγές"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:50
+msgid "Default NewsLetter settings"
+msgstr "Προεπιλεγμένες ρυθμίσεις του NewsLetter "
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:51
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:109
+msgid ""
+"The following settings apply to <strong>all</strong> forms but can be "
+"overridden on a per-form basis."
+msgstr "Οι ακόλουθες ρυθμίσεις εφαρμόζονται σε <strong>όλες</strong> τις φόρμες αλλά μπορούν να παρακαμφθούν για κάθε φόρμα ξεχωριστά."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:108
+msgid "Default Form Settings"
+msgstr "Προεπιλεγμένες Ρυθμίσεις Φόρμας"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:132
+msgid ""
+"Leave empty for no redirect. Otherwise, use complete (absolute) URLs, "
+"including <code>http://</code>."
+msgstr "Αφήστε το κενό εάν δεν θέλετε να γίνεται ανακατεύθυνση. Διαφορετικά, χρησιμοποιήστε πλήρη (απόλυτα) URL, συμπεριλαμβανομένου <code>http://</code>."
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-forms-general-settings.php:137
+msgid "Default Messages"
+msgstr "Προεπιλεγμένα Μηνύματα"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:15
+msgid "Today"
+msgstr "Σήμερα"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:16
+msgid "Yesterday"
+msgstr "Χθες"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:17
+msgid "Last Week"
+msgstr "Προηγούμενη εβδομάδα"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:18
+msgid "Last Month"
+msgstr "Προηγούμενος μήνας"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:19
+msgid "Last Quarter"
+msgstr "Προηγούμενο τρίμηνο"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:20
+msgid "Last Year"
+msgstr "Προηγούμενο έτος"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:21
+msgid "Custom"
+msgstr "Προσαρμοσμένο"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:25
+msgid "From"
+msgstr "Από"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:32
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:57
+msgid "Jan"
+msgstr "Ιανουάριος"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:33
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:58
+msgid "Feb"
+msgstr "Φεβρουάριος"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:34
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:59
+msgid "Mar"
+msgstr "Μάρτιος"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:35
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:60
+msgid "Apr"
+msgstr "Απρίλιος"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:36
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:61
+msgid "May"
+msgstr "Μάιος"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:37
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:62
+msgid "Jun"
+msgstr "Ιούνιος"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:38
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:63
+msgid "Jul"
+msgstr "Ιούλιος"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:39
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:64
+msgid "Aug"
+msgstr "Αύγουστος"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:40
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:65
+msgid "Sep"
+msgstr "Σεπτέμβριος"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:41
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:66
+msgid "Oct"
+msgstr "Οκτώβριος"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:42
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:67
+msgid "Nov"
+msgstr "Νοέμβριος"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:43
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:68
+msgid "Dec"
+msgstr "Δεκέμβριος"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:50
+msgid "To"
+msgstr "Προς"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:76
+msgid "Filter"
+msgstr "Φίλτρο"
+
+#: newsletter-for-wordpress-pro/includes/views/tabs/admin-reports-statistics.php:83
+msgid "Show these lines:"
+msgstr "Εμφάνιση αυτών των γραμμών:"
+
+#. Plugin URI of the plugin/theme
+msgid "https://nl4wp.com/"
+msgstr "https://nl4wp.com/"
+
+#. Description of the plugin/theme
+msgid "Adds various sign-up methods to your website."
+msgstr "Προσθέτει διάφορες μεθόδους εγγραφής στον ιστότοπό σας."
+
+#. Author of the plugin/theme
+msgid "Danny van Kooten"
+msgstr "Danny van Kooten"
+
+#. Author URI of the plugin/theme
+msgid "http://dannyvankooten.com"
+msgstr "http://dannyvankooten.com"

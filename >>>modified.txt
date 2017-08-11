@@ -1,0 +1,77 @@
+>>>class-admin.php
+
+		// add top menu item
+		add_menu_page( 'Newsletter for WP', 'Newsletter for WP', $required_cap, 'newsletter-for-wp', array( $this, 'show_generals_setting_page' ), NL4WP_PLUGIN_URL . 'assets/img/icon.png', '99.68491' );
+
+		// sort submenu items by 'position'
+
+
+		$capability = ! empty( $item['capability'] ) ? $item['capability'] : $this->get_required_capability();
+
+		// register page
+		$hook = add_submenu_page( $parent_slug, $item['title'] . ' - Newsletter for WordPress', $item['text'], $capability, $slug, $item['callback'] );
+
+		// register callback for loading this page, if given
+
+
+>>>admin-sidebar.php
+function __nl4wp_admin_sidebar_support_notice() {
+	?>
+	<!--
+	<div class="nl4wp-box">
+		<h4 class="nl4wp-title"><?php echo __( 'Looking for help?', 'newsletter-for-wp' ); ?></h4>
+		<p><?php echo __( 'We have some resources available to help you in the right direction.', 'newsletter-for-wp' ); ?></p>
+		<ul class="ul-square">
+			<li><a href="https://nl4wp.com/kb/#utm_source=wp-plugin&utm_medium=newsletter-for-wp&utm_campaign=sidebar"><?php echo __( 'Knowledge Base', 'newsletter-for-wp' ); ?></a></li>
+			<li><a href="https://wordpress.org/plugins/newsletter-for-wp/faq/"><?php echo __( 'Frequently Asked Questions', 'newsletter-for-wp' ); ?></a></li>
+			<li><a href="http://developer.nl4wp.com/#utm_source=wp-plugin&utm_medium=newsletter-for-wp&utm_campaign=sidebar"><?php echo __( 'Code reference for developers', 'newsletter-for-wp' ); ?></a></li>
+		</ul>
+		<p><?php echo sprintf( __( 'If your answer can not be found in the resources listed above, please use the <a href="%s">support forums on WordPress.org</a>.' ), 'https://wordpress.org/support/plugin/newsletter-for-wp' ); ?></p>
+		<p><?php echo sprintf( __( 'Found a bug? Please <a href="%s">open an issue on GitHub</a>.' ), 'https://github.com/ibericode/newsletter-for-wordpress/issues' ); ?></p>
+	</div>
+	//-->
+	<?php
+}
+
+
+>>>class-form-previewer.php
+$page_id = wp_insert_post(
+				array(
+					'post_name' =>  self::PAGE_SLUG,
+					'post_type' => 'page',
+					'post_status' => 'draft',
+					'post_title' => 'Newsletter for WordPress: Form Preview',
+					'post_content' => '[nl4wp_form]'
+				)
+
+>>>class-output-manager.php
+if( current_user_can( 'manage_options' ) ) {
+				return sprintf( '<strong>Newsletter for WordPress error:</strong> %s', $e->getMessage() );
+			}
+
+
+>>>edit-form.php
+<p class="breadcrumbs">
+		<span class="prefix"><?php echo __( 'You are here: ', 'newsletter-for-wp' ); ?></span>
+		<a href="<?php echo admin_url( 'admin.php?page=newsletter-for-wp' ); ?>">Newsletter for WordPress</a> &rsaquo;
+		<a href="<?php echo admin_url( 'admin.php?page=newsletter-for-wp-forms' ); ?>"><?php _e( 'Forms', 'newsletter-for-wp' ); ?></a> &rsaquo;
+		<span class="current-crumb"><strong><?php echo __( 'Form', 'newsletter-for-wp' ); ?> <?php echo $form_id; ?> | <?php echo $form->name; ?></strong></span>
+	</p>
+
+>>>integration-settings.php
+<p class="breadcrumbs">
+		<span class="prefix"><?php echo __( 'You are here: ', 'newsletter-for-wp' ); ?></span>
+		<a href="<?php echo admin_url( 'admin.php?page=newsletter-for-wp' ); ?>">Newsletter for WordPress</a> &rsaquo;
+		<a href="<?php echo admin_url( 'admin.php?page=newsletter-for-wp-integrations' ); ?>"><?php _e( 'Integrations', 'newsletter-for-wp' ); ?></a> &rsaquo;
+		<span class="current-crumb"><strong><?php echo $integration->name; ?></strong></span>
+	</p>
+
+>>>integrations.php e other-settings.php
+<p class="breadcrumbs">
+		<span class="prefix"><?php echo __( 'You are here: ', 'newsletter-for-wp' ); ?></span>
+		<a href="<?php echo admin_url( 'admin.php?page=newsletter-for-wp' ); ?>">Newsletter for WordPress</a> &rsaquo;
+		<span class="current-crumb"><strong><?php _e( 'Integrations', 'newsletter-for-wp' ); ?></strong></span>
+	</p>
+
+>>>admin-footer.php
+commentate un paio di righe
